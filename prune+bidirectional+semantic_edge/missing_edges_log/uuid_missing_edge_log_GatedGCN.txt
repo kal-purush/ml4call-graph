@@ -1,0 +1,66 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js testParseAndStringify 75 2 94
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js benchmark 1 15 2 =======> 0.760326683521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js testParseAndStringify 4 2 9 =======> 0.525315046310
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 6 13 17 =======> 0.345909029245
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 17 31 31 =======> 0.434611767530
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 20 27 34 =======> 0.433035522699
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 23 19 38 =======> 0.411180198193
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 26 22 42 =======> 0.470013946295
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js testGeneration 32 2 45 =======> 0.699384868145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 36 13 54 =======> 0.345979720354
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 42 24 65 =======> 0.460191488266
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 45 44 68 =======> 0.177317753434
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 54 24 73 =======> 0.560936808586
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 57 44 76 =======> 0.495770424604
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 60 24 78 =======> 0.448785454035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 63 24 82 =======> 0.490720272064
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 66 19 85 =======> 0.411060392857
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/benchmark/benchmark.js nan 69 22 88 =======> 0.571695089340
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-rollup/example-all.js parse 68 26 299
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-rollup/example-all.js nan 16 9 246 =======> 0.446998596191
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js test 1 15 885 =======> 0.672034680843
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js addTest 14 2 902 =======> 0.110102243721
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js done 33 2 923 =======> 0.127137094736
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js nan 39 18 932 =======> 0.113020554185
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-all-require.js testpage 16 0 430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-all-require.js nan 16 9 431 =======> 0.772038877010
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js test 1 15 885 =======> 0.882714152336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js addTest 14 2 902 =======> 0.399422615767
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js done 33 2 923 =======> 0.419351130724
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js nan 39 18 932 =======> 0.370606422424
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-all.js uuidParse 51 25 555
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-all.js nan 16 9 529 =======> 0.360433638096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js test 1 15 885 =======> 0.567838132381
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js addTest 14 2 902 =======> 0.076778613031
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js done 33 2 923 =======> 0.088729761541
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js nan 39 18 932 =======> 0.078475959599
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-all.js version 71 28 589
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-all.js nan 16 9 529 =======> 0.437534302473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js test 1 15 885 =======> 0.664575874805
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js addTest 14 2 902 =======> 0.105397380888
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js done 33 2 923 =======> 0.121259748936
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js nan 39 18 932 =======> 0.107780590653
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-v1.js uuidv1 6 22 604
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/browser-webpack/example-v1.js nan 5 9 600 =======> 0.264358133078
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js test 1 15 885 =======> 0.775294363499
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js addTest 14 2 902 =======> 0.235093235970
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js done 33 2 923 =======> 0.217791065574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/uuid/examples/utils/testpage.js nan 39 18 932 =======> 0.181569889188
+Total edge above 0.9 ===>  1
+
+

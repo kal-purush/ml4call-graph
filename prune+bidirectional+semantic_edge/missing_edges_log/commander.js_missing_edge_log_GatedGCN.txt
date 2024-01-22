@@ -1,0 +1,13 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-help.js command 18 0 75
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-help.js nan 13 18 66 =======> 0.000016096050
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-output.js configureOutput 11 0 95
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-output.js errorColor 6 0 88 =======> 0.000759144838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-output.js nan 14 14 99 =======> 0.000086498985
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-output.js nan 15 14 108 =======> 0.000086499313
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/commander.js/examples/configure-output.js nan 17 17 114 =======> 0.000124130747
+Total edge above 0.9 ===>  0
+
+

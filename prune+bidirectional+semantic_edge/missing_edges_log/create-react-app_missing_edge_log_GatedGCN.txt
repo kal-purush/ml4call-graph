@@ -1,0 +1,595 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js replaceMatchingSpecifiers 66 8 195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js namedAssetImportPlugin 5 0 94 =======> 0.260839045048
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js generateNewSourcePath 8 2 103 =======> 0.811493635178
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js replaceMatchingSpecifiers 16 2 119 =======> 0.318334937096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 26 33 143 =======> 0.702007591724
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 38 28 156 =======> 0.462262243032
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 43 51 164 =======> 0.591206073761
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 65 23 192 =======> 0.632563889027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 66 51 196 =======> 0.591097474098
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js generateNewSourcePath 82 14 217
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js namedAssetImportPlugin 5 0 94 =======> 0.040737327188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js generateNewSourcePath 8 2 103 =======> 0.313644587994
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js replaceMatchingSpecifiers 16 2 119 =======> 0.045182470232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 26 33 143 =======> 0.183739066124
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 38 28 156 =======> 0.083509668708
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 43 51 164 =======> 0.133888602257
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 65 23 192 =======> 0.140557065606
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/babel-plugin-named-asset-import/index.js nan 66 51 196 =======> 0.133561268449
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkForLatestVersion 198 2 851
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js isUsingYarn 52 0 653 =======> 0.556109547615
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js init 58 0 663 =======> 0.044251013547
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 63 12 691 =======> 0.427947074175
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 78 18 695 =======> 0.576469182968
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 199 11 854 =======> 0.196092680097
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 206 10 865 =======> 0.279296368361
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js createApp 235 0 890 =======> 0.272439867258
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js install 333 0 994 =======> 0.588340580463
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 334 21 1001 =======> 0.437123000622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 384 22 1044 =======> 0.509166896343
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js run 396 0 1056 =======> 0.722478449345
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 409 10 1065 =======> 0.421737015247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 418 12 1082 =======> 0.438582271338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 419 36 1089 =======> 0.463379383087
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 425 12 1091 =======> 0.426923274994
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 468 15 1139 =======> 0.296966612339
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 474 12 1141 =======> 0.400389641523
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 505 13 1180 =======> 0.348969191313
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 521 29 1205 =======> 0.408588677645
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 522 38 1208 =======> 0.367491692305
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getInstallPackage 547 0 1243 =======> 0.452944248915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 584 14 1287 =======> 0.341408640146
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getTemplateInstallPackage 597 0 1296 =======> 0.987142682076
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getTemporaryDirectory 644 0 1341 =======> 0.543721616268
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 645 21 1345 =======> 0.686180114746
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 648 37 1350 =======> 0.514349579811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 654 19 1359 =======> 0.231199815869
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js extractStream 668 0 1364 =======> 0.577530324459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 669 21 1370 =======> 0.677151083946
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 671 19 1374 =======> 0.440900027752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getPackageInfo 683 0 1378 =======> 0.754702508450
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 686 12 1387 =======> 0.321905851364
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 693 54 1399 =======> 0.273144215345
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 695 12 1400 =======> 0.451403915882
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 703 13 1408 =======> 0.465916782618
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkNpmVersion 743 0 1457 =======> 0.528384625912
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkYarnVersion 758 0 1468 =======> 0.505363881588
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkNodeVersion 790 0 1498 =======> 0.532958447933
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkAppName 821 0 1521 =======> 0.358793497086
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 834 14 1545 =======> 0.432633787394
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 851 36 1575 =======> 0.497242897749
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js makeCaretRange 858 0 1582 =======> 0.707393407822
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js setCaretRangeForRuntimeDeps 880 0 1610 =======> 0.454148799181
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js isSafeToCreateProjectIn 906 0 1635 =======> 0.480704188347
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 932 21 1644 =======> 0.773042023182
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 933 37 1648 =======> 0.716131091118
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 938 12 1658 =======> 0.455090373755
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 940 12 1661 =======> 0.448403269053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 942 12 1664 =======> 0.464796632528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 970 31 1708 =======> 0.256326735020
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getProxy 978 0 1714 =======> 0.339152425528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkThatNpmCanReadCwd 993 0 1729 =======> 0.353605329990
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1017 26 1754 =======> 0.678744375706
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkIfOnline 1054 0 1800 =======> 0.131853550673
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1061 21 1807 =======> 0.569007337093
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1062 39 1810 =======> 0.503477871418
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1067 46 1818 =======> 0.582932412624
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js executeNodeScript 1077 0 1822 =======> 0.476797491312
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1078 21 1828 =======> 0.551624357700
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1085 22 1837 =======> 0.510080873966
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkForLatestVersion 1097 0 1847 =======> 0.125600531697
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1098 21 1850 =======> 0.546764969826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1102 8 1854 =======> 0.475164473057
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1105 27 1861 =======> 0.575809597969
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1106 26 1863 =======> 0.442776978016
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1114 19 1867 =======> 0.363470673561
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkIfOnline 419 8 1087
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js isUsingYarn 52 0 653 =======> 0.567273139954
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js init 58 0 663 =======> 0.043979726732
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 63 12 691 =======> 0.446109920740
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 78 18 695 =======> 0.586293518543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 199 11 854 =======> 0.202534481883
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 206 10 865 =======> 0.287493914366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js createApp 235 0 890 =======> 0.298731714487
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js install 333 0 994 =======> 0.615239500999
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 334 21 1001 =======> 0.447079211473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 384 22 1044 =======> 0.519250333309
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js run 396 0 1056 =======> 0.747575640678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 409 10 1065 =======> 0.431611597538
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 418 12 1082 =======> 0.449588418007
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 419 36 1089 =======> 0.474838912487
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 425 12 1091 =======> 0.436827570200
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 468 15 1139 =======> 0.355684071779
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 474 12 1141 =======> 0.410118669271
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 505 13 1180 =======> 0.358195394278
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 521 29 1205 =======> 0.424290895462
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 522 38 1208 =======> 0.376923859119
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getInstallPackage 547 0 1243 =======> 0.478297114372
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 584 14 1287 =======> 0.350542366505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getTemplateInstallPackage 597 0 1296 =======> 0.990931391716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getTemporaryDirectory 644 0 1341 =======> 0.554947316647
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 645 21 1345 =======> 0.706668198109
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 648 37 1350 =======> 0.530276358128
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 654 19 1359 =======> 0.237328082323
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js extractStream 668 0 1364 =======> 0.608634710312
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 669 21 1370 =======> 0.697969198227
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 671 19 1374 =======> 0.450873255730
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getPackageInfo 683 0 1378 =======> 0.772202312946
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 686 12 1387 =======> 0.330780059099
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 693 54 1399 =======> 0.299475997686
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 695 12 1400 =======> 0.461418807507
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 703 13 1408 =======> 0.475974231958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkNpmVersion 743 0 1457 =======> 0.542837560177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkYarnVersion 758 0 1468 =======> 0.516694486141
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkNodeVersion 790 0 1498 =======> 0.543629050255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkAppName 821 0 1521 =======> 0.369291633368
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 834 14 1545 =======> 0.443268060684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 851 36 1575 =======> 0.564037859440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js makeCaretRange 858 0 1582 =======> 0.727242350578
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js setCaretRangeForRuntimeDeps 880 0 1610 =======> 0.476534873247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js isSafeToCreateProjectIn 906 0 1635 =======> 0.506173133850
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 932 21 1644 =======> 0.785852849483
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 933 37 1648 =======> 0.778905689716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 938 12 1658 =======> 0.479214847088
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 940 12 1661 =======> 0.471573919058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 942 12 1664 =======> 0.487842231989
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 970 31 1708 =======> 0.273996680975
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js getProxy 978 0 1714 =======> 0.349388897419
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkThatNpmCanReadCwd 993 0 1729 =======> 0.371402621269
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1017 26 1754 =======> 0.746129512787
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkIfOnline 1054 0 1800 =======> 0.137131467462
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1061 21 1807 =======> 0.591815531254
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1062 39 1810 =======> 0.513566553593
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1067 46 1818 =======> 0.637280881405
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js executeNodeScript 1077 0 1822 =======> 0.502259492874
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1078 21 1828 =======> 0.567260384560
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1085 22 1837 =======> 0.520163238049
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js checkForLatestVersion 1097 0 1847 =======> 0.130665808916
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1098 21 1850 =======> 0.570660114288
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1102 8 1854 =======> 0.491698473692
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1105 27 1861 =======> 0.597671806812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1106 26 1863 =======> 0.512821495533
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/create-react-app/createReactApp.js nan 1114 19 1867 =======> 0.389136612415
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js getRelativePath 60 17 2517
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 15 13 2444 =======> 0.308679550886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 24 16 2455 =======> 0.103888332844
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 32 17 2466 =======> 0.294075965881
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 42 15 2481 =======> 0.144296899438
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 99 7 2578 =======> 0.076099231839
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 102 14 2588 =======> 0.110694624484
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 107 14 2601 =======> 0.265809893608
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 108 32 2605 =======> 0.233820706606
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 118 67 2614 =======> 0.284854561090
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 120 16 2619 =======> 0.148834601045
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 125 16 2626 =======> 0.265786498785
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 126 34 2628 =======> 0.218123897910
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js useYarnCommand 71 23 2541
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 15 13 2444 =======> 0.132727876306
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 24 16 2455 =======> 0.044655393809
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 32 17 2466 =======> 0.131349429488
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 42 15 2481 =======> 0.057981822640
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 99 7 2578 =======> 0.038010813296
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 102 14 2588 =======> 0.051108818501
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 107 14 2601 =======> 0.113302424550
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 108 32 2605 =======> 0.100590035319
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 118 67 2614 =======> 0.126317635179
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 120 16 2619 =======> 0.065290376544
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 125 16 2626 =======> 0.113292232156
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ModuleNotFoundPlugin.js nan 126 34 2628 =======> 0.094162121415
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js ignoredFiles 32 38 3406
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js nan 12 37 3368 =======> 0.032342370600
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js nan 13 20 3371 =======> 0.039260800928
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js nan 22 21 3390 =======> 0.041970182210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js nan 29 45 3398 =======> 0.039401434362
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js nan 40 39 3412 =======> 0.041970182210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/__tests__/ignoredFiles.test.js nan 49 42 3420 =======> 0.041970182210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/ignoredFiles.js ignoredFiles 13 17 4226 =======> 0.643229305744
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printBaseMessage 28 4 4835
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printHostingInstructions 15 0 4814 =======> 0.058580432087
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printBaseMessage 48 0 4856 =======> 0.235093712807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printDeployInstructions 74 0 4893 =======> 0.199831023812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printStaticServerInstructions 114 0 4964 =======> 0.168038144708
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printBaseMessage 33 4 4840
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printHostingInstructions 15 0 4814 =======> 0.045120161027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printBaseMessage 48 0 4856 =======> 0.189227744937
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printDeployInstructions 74 0 4893 =======> 0.159918040037
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/printHostingInstructions.js printStaticServerInstructions 114 0 4964 =======> 0.132979884744
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js clearOutdatedErrors 98 2 5129
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js isLikelyASyntaxError 12 0 3885 =======> 0.218993335962
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatMessage 17 0 3892 =======> 0.728533685207
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 25 20 3909 =======> 0.519682466984
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 34 23 3914 =======> 0.579460680485
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 38 20 3921 =======> 0.568886637688
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 108 4 3978 =======> 0.632844984531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatWebpackMessages 117 0 3987 =======> 0.854282557964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js editorHandler 25 30 5056 =======> 0.546012282372
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 46 11 5075 =======> 0.302952319384
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 53 21 5083 =======> 0.506505668163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 74 21 5106 =======> 0.071425601840
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js clearOutdatedErrors 87 0 5119 =======> 0.623403012753
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleSuccess 97 0 5127 =======> 0.411332011223
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onHotUpdateSuccess 106 20 5136 =======> 0.657818078995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleWarnings 115 0 5140 =======> 0.617702007294
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js printWarnings 122 2 5146 =======> 0.308077156544
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onSuccessfulHotUpdate 147 20 5171 =======> 0.659702181816
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleErrors 156 0 5174 =======> 0.622563064098
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryDismissErrorOverlay 182 0 5192 =======> 0.830203294754
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleAvailableHash 189 0 5197 =======> 0.606069743633
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 195 23 5201 =======> 0.134370043874
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js isUpdateAvailable 221 0 5229 =======> 0.704711198807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canApplyUpdates 229 0 5233 =======> 0.638470411301
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canAcceptErrors 233 0 5238 =======> 0.619530737400
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryApplyUpdates 246 0 5250 =======> 0.887513935566
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleApplyUpdates 257 2 5261 =======> 0.855109572411
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 286 6 5289 =======> 0.419119656086
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 289 6 5291 =======> 0.476355552673
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js printWarnings 143 2 5168
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js isLikelyASyntaxError 12 0 3885 =======> 0.160620167851
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatMessage 17 0 3892 =======> 0.676180779934
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 25 20 3909 =======> 0.438929319382
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 34 23 3914 =======> 0.499069988728
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 38 20 3921 =======> 0.488260030746
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 108 4 3978 =======> 0.597037911415
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatWebpackMessages 117 0 3987 =======> 0.811631381512
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js editorHandler 25 30 5056 =======> 0.570947885513
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 46 11 5075 =======> 0.272801727057
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 53 21 5083 =======> 0.529670774937
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 74 21 5106 =======> 0.049992766231
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js clearOutdatedErrors 87 0 5119 =======> 0.544220745564
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleSuccess 97 0 5127 =======> 0.346831440926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onHotUpdateSuccess 106 20 5136 =======> 0.692335963249
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleWarnings 115 0 5140 =======> 0.556938171387
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js printWarnings 122 2 5146 =======> 0.256833404303
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onSuccessfulHotUpdate 147 20 5171 =======> 0.602007806301
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleErrors 156 0 5174 =======> 0.562058568001
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryDismissErrorOverlay 182 0 5192 =======> 0.778475761414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleAvailableHash 189 0 5197 =======> 0.527743399143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 195 23 5201 =======> 0.091159343719
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js isUpdateAvailable 221 0 5229 =======> 0.632599949837
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canApplyUpdates 229 0 5233 =======> 0.560276746750
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canAcceptErrors 233 0 5238 =======> 0.546379685402
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryApplyUpdates 246 0 5250 =======> 0.854664325714
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleApplyUpdates 257 2 5261 =======> 0.816305994987
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 286 6 5289 =======> 0.384150058031
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 289 6 5291 =======> 0.429840713739
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js formatWebpackMessages 163 18 5178
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js isLikelyASyntaxError 12 0 3885 =======> 0.319967299700
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatMessage 17 0 3892 =======> 0.754979074001
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 25 20 3909 =======> 0.653865218163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 34 23 3914 =======> 0.706378877163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 38 20 3921 =======> 0.697329342365
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 108 4 3978 =======> 0.724569737911
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatWebpackMessages 117 0 3987 =======> 0.906527340412
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js editorHandler 25 30 5056 =======> 0.746266663074
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 46 11 5075 =======> 0.420850783587
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 53 21 5083 =======> 0.623025119305
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 74 21 5106 =======> 0.114667423069
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js clearOutdatedErrors 87 0 5119 =======> 0.714684605598
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleSuccess 97 0 5127 =======> 0.539911150932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onHotUpdateSuccess 106 20 5136 =======> 0.816333889961
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleWarnings 115 0 5140 =======> 0.711991369724
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js printWarnings 122 2 5146 =======> 0.445959746838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onSuccessfulHotUpdate 147 20 5171 =======> 0.769411146641
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleErrors 156 0 5174 =======> 0.712613463402
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryDismissErrorOverlay 182 0 5192 =======> 0.891467750072
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleAvailableHash 189 0 5197 =======> 0.732899069786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 195 23 5201 =======> 0.196028277278
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js isUpdateAvailable 221 0 5229 =======> 0.808932185173
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canApplyUpdates 229 0 5233 =======> 0.758043706417
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canAcceptErrors 233 0 5238 =======> 0.744588792324
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryApplyUpdates 246 0 5250 =======> 0.919109046459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleApplyUpdates 257 2 5261 =======> 0.900324106216
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 286 6 5289 =======> 0.543408989906
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 289 6 5291 =======> 0.602253615856
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js isUpdateAvailable 274 8 5280
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js isLikelyASyntaxError 12 0 3885 =======> 0.083005346358
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatMessage 17 0 3892 =======> 0.514017462730
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 25 20 3909 =======> 0.256368458271
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 34 23 3914 =======> 0.309484750032
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 38 20 3921 =======> 0.290484249592
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js nan 108 4 3978 =======> 0.419113159180
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/formatWebpackMessages.js formatWebpackMessages 117 0 3987 =======> 0.663425266743
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js editorHandler 25 30 5056 =======> 0.389628916979
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 46 11 5075 =======> 0.162814691663
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 53 21 5083 =======> 0.325420379639
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 74 21 5106 =======> 0.023228846490
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js clearOutdatedErrors 87 0 5119 =======> 0.331680029631
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleSuccess 97 0 5127 =======> 0.195439383388
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onHotUpdateSuccess 106 20 5136 =======> 0.508594095707
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleWarnings 115 0 5140 =======> 0.365098297596
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js printWarnings 122 2 5146 =======> 0.130279943347
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js onSuccessfulHotUpdate 147 20 5171 =======> 0.408973366022
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleErrors 156 0 5174 =======> 0.372610419989
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryDismissErrorOverlay 182 0 5192 =======> 0.593598723412
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleAvailableHash 189 0 5197 =======> 0.347496747971
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 195 23 5201 =======> 0.043952107430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js isUpdateAvailable 221 0 5229 =======> 0.423364818096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canApplyUpdates 229 0 5233 =======> 0.350109487772
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js canAcceptErrors 233 0 5238 =======> 0.333612769842
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js tryApplyUpdates 246 0 5250 =======> 0.729011654854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js handleApplyUpdates 257 2 5261 =======> 0.672539591789
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 286 6 5289 =======> 0.214415624738
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-dev-utils/webpackHotDevClient.js nan 289 6 5291 =======> 0.239378452301
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveApp 65 12 6474
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.966439068317
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.364909678698
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.156949400902
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.879039943218
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveApp 69 18 6482
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.924253284931
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.192313909531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.064653880894
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.747820317745
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveApp 71 15 6486
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.924253284931
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.192313909531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.064653880894
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.747820317745
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveModule 104 9 6525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.982964217663
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.535162389278
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.270598173141
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.935738146305
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveOwn 110 23 6533
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.960761904716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.357376366854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.131362780929
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.873834431171
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveOwn 132 20 6580
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.968379437923
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.412242859602
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.154116019607
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.897769689560
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveOwn 141 24 6607
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.968379437923
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.412242859602
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.154116019607
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.897769689560
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js resolveModule 142 11 6608
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.992834806442
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.840032577515
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.598742127419
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.984761714935
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/webpackDevServer.config.js ignoredFiles 77 17 6704
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.985141396523
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.543435692787
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.281241238117
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.942075133324
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/webpackDevServer.config.js nan 24 17 6679 =======> 0.068233512342
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/webpackDevServer.config.js nan 112 27 6729 =======> 0.072034694254
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/webpackDevServer.config.js nan 123 26 6742 =======> 0.117830790579
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js initDOM 61 18 6852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 10 24 6783 =======> 0.044475615025
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 11 36 6785 =======> 0.053481999785
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 14 14 6790 =======> 0.082084298134
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 19 29 6797 =======> 0.039770539850
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 37 21 6821 =======> 0.047314528376
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 52 30 6843 =======> 0.046980865300
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/env.test.js nan 60 32 6850 =======> 0.040343713015
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 19 25 6896 =======> 0.097883753479
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 29 9 6918 =======> 0.071077354252
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 35 108 6935 =======> 0.072645358741
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 42 16 6944 =======> 0.958479642868
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 44 14 6947 =======> 0.038630913943
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 70 22 6973 =======> 0.122072890401
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 79 37 6984 =======> 0.071558684111
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 88 8 6992 =======> 0.030655499548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 93 8 6998 =======> 0.061387453228
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js initDOM 68 18 7079
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 19 25 6896 =======> 0.066407345235
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 29 9 6918 =======> 0.052905373275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 35 108 6935 =======> 0.047884427011
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 42 16 6944 =======> 0.936866104603
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 44 14 6947 =======> 0.032943576574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 70 22 6973 =======> 0.084155224264
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 79 37 6984 =======> 0.049167655408
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 88 8 6992 =======> 0.021522521973
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 93 8 6998 =======> 0.042034942657
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 10 24 7017 =======> 0.031697094440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 11 30 7019 =======> 0.047129593790
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 14 14 7024 =======> 0.065564177930
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 19 30 7031 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 27 23 7042 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 35 22 7049 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 43 27 7056 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 51 30 7063 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 59 31 7070 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 67 29 7077 =======> 0.040239334106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 75 34 7084 =======> 0.040162067860
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 83 21 7091 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 91 31 7098 =======> 0.040239334106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 99 24 7105 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 107 19 7112 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 113 25 7119 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 121 26 7126 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 129 33 7133 =======> 0.040162056684
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js initDOM 92 18 7100
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 19 25 6896 =======> 0.066407345235
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 29 9 6918 =======> 0.052905373275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 35 108 6935 =======> 0.047884427011
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 42 16 6944 =======> 0.936866104603
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 44 14 6947 =======> 0.032943576574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 70 22 6973 =======> 0.084155224264
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 79 37 6984 =======> 0.049167655408
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 88 8 6992 =======> 0.021522521973
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 93 8 6998 =======> 0.042034942657
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 10 24 7017 =======> 0.031697094440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 11 30 7019 =======> 0.047129593790
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 14 14 7024 =======> 0.065564177930
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 19 30 7031 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 27 23 7042 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 35 22 7049 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 43 27 7056 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 51 30 7063 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 59 31 7070 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 67 29 7077 =======> 0.040239334106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 75 34 7084 =======> 0.040162067860
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 83 21 7091 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 91 31 7098 =======> 0.040239334106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 99 24 7105 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 107 19 7112 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 113 25 7119 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 121 26 7126 =======> 0.040162056684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/syntax.test.js nan 129 33 7133 =======> 0.040162056684
+Total edge above 0.9 ===>  9
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js initDOM 52 18 7213
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 19 25 6896 =======> 0.066504612565
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 29 9 6918 =======> 0.052960138768
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 35 108 6935 =======> 0.047985818237
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 42 16 6944 =======> 0.937102198601
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 44 14 6947 =======> 0.032820764929
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 70 22 6973 =======> 0.084082372487
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 79 37 6984 =======> 0.049123492092
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 88 8 6992 =======> 0.021567791700
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 93 8 6998 =======> 0.041996888816
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 11 17 7150 =======> 0.351674824953
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 34 24 7192 =======> 0.030676247552
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 35 30 7194 =======> 0.037942565978
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 38 14 7198 =======> 0.063990890980
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 43 24 7205 =======> 0.049553807825
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 51 32 7211 =======> 0.049255874008
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 59 25 7217 =======> 0.049553822726
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 64 33 7223 =======> 0.049553830177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 72 25 7229 =======> 0.049553822726
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 77 33 7235 =======> 0.049553807825
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 85 26 7241 =======> 0.044839244336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 93 27 7250 =======> 0.044949438423
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 102 25 7259 =======> 0.036919973791
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 110 25 7267 =======> 0.036927394569
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 118 24 7274 =======> 0.044839244336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 125 24 7281 =======> 0.036919958889
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 131 21 7288 =======> 0.049553841352
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 136 32 7294 =======> 0.044949427247
+Total edge above 0.9 ===>  10
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js initDOM 111 18 7269
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 19 25 6896 =======> 0.068020194769
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 29 9 6918 =======> 0.053838752210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 35 108 6935 =======> 0.049551203847
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 42 16 6944 =======> 0.938830077648
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 44 14 6947 =======> 0.033348996192
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 70 22 6973 =======> 0.086668238044
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 79 37 6984 =======> 0.050693750381
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 88 8 6992 =======> 0.022112689912
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/initDOM.js nan 93 8 6998 =======> 0.043349709362
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 11 17 7150 =======> 0.358644545078
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 34 24 7192 =======> 0.031709093601
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 35 30 7194 =======> 0.039170134813
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 38 14 7198 =======> 0.065466113389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 43 24 7205 =======> 0.051190961152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 51 32 7211 =======> 0.050883665681
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 59 25 7217 =======> 0.051190961152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 64 33 7223 =======> 0.051190972328
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 72 25 7229 =======> 0.051190961152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 77 33 7235 =======> 0.051190961152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 85 26 7241 =======> 0.045740637928
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 93 27 7250 =======> 0.045847944915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 102 25 7259 =======> 0.037629920989
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 110 25 7267 =======> 0.037637468427
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 118 24 7274 =======> 0.045740637928
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 125 24 7281 =======> 0.037629894912
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 131 21 7288 =======> 0.051190979779
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/fixtures/kitchensink/template/integration/webpack.test.js nan 136 32 7294 =======> 0.045847944915
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js printHostingInstructions 111 6 7496
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 18 19 6418 =======> 0.997199296951
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 49 22 6439 =======> 0.894434034824
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 50 46 6446 =======> 0.744204938412
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/config/paths.js nan 84 19 6505 =======> 0.990754544735
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 18 33 7351 =======> 0.619217634201
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 64 8 7440 =======> 0.398289293051
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 69 8 7444 =======> 0.600646734238
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 79 4 7453 =======> 0.395622849464
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 119 4 7497 =======> 0.339974224567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 135 9 7511 =======> 0.532404184341
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js build 143 0 7516 =======> 0.787641286850
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 147 21 7524 =======> 0.742262721062
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 148 17 7529 =======> 0.480401843786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 189 10 7572 =======> 0.606700420380
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 211 16 7594 =======> 0.583695292473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 212 17 7596 =======> 0.573364853859
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js copyPublicFolder 220 0 7602 =======> 0.651553213596
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/create-react-app/packages/react-scripts/scripts/build.js nan 223 12 7608 =======> 0.653645277023
+Total edge above 0.9 ===>  12
+
+
+RANK 1 number of edge 12 ===>  0.6666666666666666
+
+

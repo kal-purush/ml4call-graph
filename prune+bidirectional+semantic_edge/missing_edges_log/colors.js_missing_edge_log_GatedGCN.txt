@@ -1,0 +1,186 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js supportsColor 44 19 187
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 47 16 189 =======> 0.077654704452
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 51 17 191 =======> 0.077654428780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 55 36 194 =======> 0.763864934444
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js stylize 60 31 201 =======> 0.913817405701
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 78 25 219 =======> 0.699476301670
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js build 85 0 227 =======> 0.823717236519
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js builder 86 16 232 =======> 0.814972102642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 96 14 243 =======> 0.785397768021
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 99 34 253 =======> 0.627484798431
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 103 11 260 =======> 0.433445602655
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js colors 111 24 268 =======> 0.888668239117
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js applyStyle 113 0 269 =======> 0.337643057108
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 116 21 281 =======> 0.718531310558
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 138 38 312 =======> 0.860117375851
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 147 18 317 =======> 0.741049647331
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 159 5 328 =======> 0.768834888935
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 160 22 329 =======> 0.432037919760
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js init 174 0 340 =======> 0.763982772827
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 176 30 346 =======> 0.678688645363
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 178 11 349 =======> 0.434168696404
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js sequencer 186 16 356 =======> 0.880594015121
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 204 3 385 =======> 0.769433796406
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 205 18 386 =======> 0.494973033667
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/custom/zalgo.js randomNumber 79 22 558
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/custom/zalgo.js zalgo 2 20 492 =======> 0.015961263329
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/custom/zalgo.js randomNumber 43 2 510 =======> 0.855658411980
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/custom/zalgo.js isChar 48 2 521 =======> 0.145845830441
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/custom/zalgo.js nan 50 15 528 =======> 0.107645474374
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/custom/zalgo.js heComes 57 2 531 =======> 0.298808276653
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js strip 16 11 613
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 47 16 189 =======> 0.030342454091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 51 17 191 =======> 0.030342454091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 55 36 194 =======> 0.551397919655
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js stylize 60 31 201 =======> 0.900164246559
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 78 25 219 =======> 0.447293132544
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js build 85 0 227 =======> 0.665000021458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js builder 86 16 232 =======> 0.622674822807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 96 14 243 =======> 0.593748986721
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 99 34 253 =======> 0.346228629351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 103 11 260 =======> 0.214976057410
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js colors 111 24 268 =======> 0.868069052696
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js applyStyle 113 0 269 =======> 0.128968268633
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 116 21 281 =======> 0.467588663101
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 138 38 312 =======> 0.768817245960
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 147 18 317 =======> 0.506852567196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 159 5 328 =======> 0.574661850929
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 160 22 329 =======> 0.221156463027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js init 174 0 340 =======> 0.547897338867
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 176 30 346 =======> 0.449549973011
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 178 11 349 =======> 0.215337142348
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js sequencer 186 16 356 =======> 0.813829839230
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 204 3 385 =======> 0.572929263115
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 205 18 386 =======> 0.261547952890
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 3 20 595 =======> 0.712359130383
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 7 20 598 =======> 0.884950995445
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 11 23 606 =======> 0.775993227959
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 15 29 611 =======> 0.781324088573
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 19 22 615 =======> 0.775475144386
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 23 23 620 =======> 0.725607752800
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 27 23 625 =======> 0.778058946133
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 31 25 630 =======> 0.790345907211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 35 24 635 =======> 0.773394227028
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 39 25 640 =======> 0.775998830795
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 47 12 652 =======> 0.812835454941
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 48 23 655 =======> 0.792890131474
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js applyTheme 53 2 659 =======> 0.674210786819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 68 31 667 =======> 0.195637345314
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 76 28 681 =======> 0.797059655190
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 80 36 686 =======> 0.561203241348
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 88 25 698 =======> 0.374346315861
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 96 20 702 =======> 0.560714781284
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js addProperty 23 2 619
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 47 16 189 =======> 0.015553195029
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 51 17 191 =======> 0.015553091653
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 55 36 194 =======> 0.480649590492
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js stylize 60 31 201 =======> 0.878346085548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 78 25 219 =======> 0.380827963352
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js build 85 0 227 =======> 0.591542720795
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js builder 86 16 232 =======> 0.499368220568
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 96 14 243 =======> 0.505227267742
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 99 34 253 =======> 0.255934536457
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 103 11 260 =======> 0.162264078856
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js colors 111 24 268 =======> 0.800311863422
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js applyStyle 113 0 269 =======> 0.107123307884
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 116 21 281 =======> 0.394596099854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 138 38 312 =======> 0.711979448795
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 147 18 317 =======> 0.457649588585
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 159 5 328 =======> 0.508204936981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 160 22 329 =======> 0.146091446280
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js init 174 0 340 =======> 0.475104957819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 176 30 346 =======> 0.355342298746
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 178 11 349 =======> 0.162522003055
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js sequencer 186 16 356 =======> 0.753578364849
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 204 3 385 =======> 0.504744887352
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/colors.js nan 205 18 386 =======> 0.174232050776
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 3 20 595 =======> 0.659628987312
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 7 20 598 =======> 0.853670775890
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 11 23 606 =======> 0.730034053326
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 15 29 611 =======> 0.736782371998
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 19 22 615 =======> 0.730836093426
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 23 23 620 =======> 0.664679527283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 27 23 625 =======> 0.731441199780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 31 25 630 =======> 0.749230325222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 35 24 635 =======> 0.728652715683
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 39 25 640 =======> 0.730174541473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 47 12 652 =======> 0.761414885521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 48 23 655 =======> 0.752063751221
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js applyTheme 53 2 659 =======> 0.618262290955
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 68 31 667 =======> 0.130289226770
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 76 28 681 =======> 0.754751384258
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 80 36 686 =======> 0.494524657726
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 88 25 698 =======> 0.284676611423
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/extendStringPrototype.js nan 96 20 702 =======> 0.504802048206
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js hasFlag 34 4 966
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/has-flag.js nan 27 17 931 =======> 0.646078646183
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js translateLevel 45 0 979 =======> 0.400420814753
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js supportsColor 58 0 989 =======> 0.414857029915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js nan 95 61 1034 =======> 0.557984471321
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js getSupportLevel 142 0 1073 =======> 0.460971802473
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js hasFlag 37 14 973
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/has-flag.js nan 27 17 931 =======> 0.603626728058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js translateLevel 45 0 979 =======> 0.352365940809
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js supportsColor 58 0 989 =======> 0.376986652613
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js nan 95 61 1034 =======> 0.502902567387
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js getSupportLevel 142 0 1073 =======> 0.412851899862
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js hasFlag 63 6 995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/has-flag.js nan 27 17 931 =======> 0.561485528946
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js translateLevel 45 0 979 =======> 0.305617153645
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js supportsColor 58 0 989 =======> 0.323156416416
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js nan 95 61 1034 =======> 0.452698498964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/lib/system/supports-colors.js getSupportLevel 142 0 1073 =======> 0.359750181437
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js stylize 40 10 1155
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js a 6 0 1102 =======> 0.707758784294
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js aE 10 0 1108 =======> 0.964096128941
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js aE 44 0 1158
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js a 6 0 1102 =======> 0.090080812573
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js aE 10 0 1108 =======> 0.944507539272
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js setTheme 82 0 1189
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js a 6 0 1102 =======> 0.876288771629
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/basic-test.js aE 10 0 1108 =======> 0.972614645958
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/safe-test.js aE 36 0 1257
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/safe-test.js a 6 0 1210 =======> 0.042397391051
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/safe-test.js aE 10 0 1216 =======> 0.942264080048
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/safe-test.js setTheme 75 0 1297
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/safe-test.js a 6 0 1210 =======> 0.841156721115
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/colors.js/tests/safe-test.js aE 10 0 1216 =======> 0.973075211048
+Total edge above 0.9 ===>  6
+
+
+RANK 1 number of edge 6 ===>  3.0
+
+

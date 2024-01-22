@@ -1,0 +1,4 @@
+prune+bidirectional+semantic_edge/out/*
+prune+bidirectional+semantic_edge/results/*
+prune+bidirectional+semantic_edge+dynamic_edge/out/*
+prune+bidirectional+semantic_edge+dynamic_edge/results/*

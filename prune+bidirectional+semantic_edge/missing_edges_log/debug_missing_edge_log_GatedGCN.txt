@@ -1,0 +1,79 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js require 255 17 159
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js nan 12 19 48 =======> 0.817917287350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js nan 15 8 52 =======> 0.582745671272
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js useColors 115 0 60 =======> 0.122598052025
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js formatArgs 146 0 97 =======> 0.313251435757
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js nan 166 32 121 =======> 0.390475988388
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js nan 189 47 129 =======> 0.027124959975
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js save 197 0 130 =======> 0.066400319338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js load 216 0 140 =======> 0.199315682054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js localstorage 244 0 153 =======> 0.262576580048
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/src/browser.js nan 263 15 165 =======> 0.042303711176
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js disable 86 22 690
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 6 18 595 =======> 0.153942540288
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 7 35 598 =======> 0.105421498418
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 10 12 603 =======> 0.017903823406
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 12 22 606 =======> 0.195213377476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 15 50 609 =======> 0.107686117291
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 18 12 612 =======> 0.017938375473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 20 22 614 =======> 0.290641635656
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 23 50 618 =======> 0.250901192427
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 32 32 630 =======> 0.118648372591
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 37 12 636 =======> 0.045517425984
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 46 30 647 =======> 0.199145555496
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 47 32 649 =======> 0.134756907821
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 50 13 652 =======> 0.016791865230
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 56 54 660 =======> 0.128962785006
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 59 13 663 =======> 0.016906240955
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 65 53 668 =======> 0.128962740302
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 68 13 671 =======> 0.016906231642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 74 56 676 =======> 0.147806823254
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 76 13 679 =======> 0.016141608357
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 83 49 684 =======> 0.210275664926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 84 43 686 =======> 0.221492245793
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 90 22 694 =======> 0.216319203377
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 98 20 706 =======> 0.221180528402
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 104 25 712 =======> 0.221179932356
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 110 41 718 =======> 0.201684907079
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 121 47 741 =======> 0.200270786881
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 125 14 748 =======> 0.025700768456
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js disable 122 3 742
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 6 18 595 =======> 0.249312475324
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 7 35 598 =======> 0.176677510142
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 10 12 603 =======> 0.029830599204
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 12 22 606 =======> 0.304413169622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 15 50 609 =======> 0.180163398385
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 18 12 612 =======> 0.029891131446
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 20 22 614 =======> 0.442894756794
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 23 50 618 =======> 0.387514472008
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 32 32 630 =======> 0.197791785002
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 37 12 636 =======> 0.085796870291
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 46 30 647 =======> 0.316383570433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 47 32 649 =======> 0.216652438045
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 50 13 652 =======> 0.026881115511
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 56 54 660 =======> 0.208482906222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 59 13 663 =======> 0.027155838907
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 65 53 668 =======> 0.208482816815
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 68 13 671 =======> 0.027155829594
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 74 56 676 =======> 0.237079516053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 76 13 679 =======> 0.024623913690
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 83 49 684 =======> 0.331234276295
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 84 43 686 =======> 0.350217700005
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 90 22 694 =======> 0.344925373793
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 98 20 706 =======> 0.349927932024
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 104 25 712 =======> 0.349927037954
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 110 41 718 =======> 0.322445631027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 121 47 741 =======> 0.321096062660
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/debug/test.js nan 125 14 748 =======> 0.040929254144
+Total edge above 0.9 ===>  0
+
+
+RANK 1 number of edge 0 ===>  0.0
+
+

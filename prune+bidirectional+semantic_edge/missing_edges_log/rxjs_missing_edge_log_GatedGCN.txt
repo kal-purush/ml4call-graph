@@ -1,0 +1,813 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 23 98 320
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 1 1 85 =======> 0.000004538680
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 18 1 90 =======> 0.000140246426
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js T 18 12 91 =======> 0.000219554640
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js d 18 26 94 =======> 0.880970180035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 18 219 118 =======> 0.896569550037
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 18 358 130 =======> 0.797905027866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 19 341 177 =======> 0.105814799666
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 20 100 200 =======> 0.290680915117
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 21 234 244 =======> 0.062954150140
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js U 22 196 288 =======> 0.318026810884
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 22 212 290 =======> 0.705931127071
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js J 23 146 325 =======> 0.010748839006
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js V 23 246 334 =======> 0.000541247544
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js G 23 395 349 =======> 0.117115661502
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 23 411 351 =======> 0.000948812987
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 25 23 401 =======> 0.000093559429
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 25 271 423 =======> 0.010895794258
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js L 29 177 489 =======> 0.726068675518
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 29 195 491 =======> 0.775020658970
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 30 99 517 =======> 0.462873935699
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 30 113 518 =======> 0.282858431339
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js t 31 308 568 =======> 0.045989591628
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js K 31 456 580 =======> 0.407266080379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js M 32 45 585 =======> 0.010283340700
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 42 404 799 =======> 0.022429438308
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 123 811 =======> 0.146396785975
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 43 137 812 =======> 0.286635339260
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 441 834 =======> 0.004843260162
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 45 409 905 =======> 0.779902637005
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 46 151 917 =======> 0.000001445206
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js T 25 238 420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 1 1 85 =======> 0.000631778850
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 18 1 90 =======> 0.019311513752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js T 18 12 91 =======> 0.007973543368
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js d 18 26 94 =======> 0.644740641117
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 18 219 118 =======> 0.654534459114
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 18 358 130 =======> 0.669677972794
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 19 341 177 =======> 0.125422731042
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 20 100 200 =======> 0.415354698896
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 21 234 244 =======> 0.151425153017
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js U 22 196 288 =======> 0.694152712822
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 22 212 290 =======> 0.623112440109
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js J 23 146 325 =======> 0.074425593019
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js V 23 246 334 =======> 0.047381460667
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js G 23 395 349 =======> 0.894101262093
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 23 411 351 =======> 0.010258503258
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 25 23 401 =======> 0.011387989856
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 25 271 423 =======> 0.420114248991
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js L 29 177 489 =======> 0.765062391758
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 29 195 491 =======> 0.622564673424
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 30 99 517 =======> 0.596407651901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 30 113 518 =======> 0.481048136950
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js t 31 308 568 =======> 0.624185621738
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js K 31 456 580 =======> 0.783012270927
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js M 32 45 585 =======> 0.131243422627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 42 404 799 =======> 0.148149624467
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 123 811 =======> 0.563946127892
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 43 137 812 =======> 0.762684702873
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 441 834 =======> 0.014546203427
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 45 409 905 =======> 0.917176187038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 46 151 917 =======> 0.000202863521
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js t 39 490 709
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 1 1 85 =======> 0.044881809503
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 18 1 90 =======> 0.614524006844
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js T 18 12 91 =======> 0.716673076153
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js d 18 26 94 =======> 0.744156837463
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 18 219 118 =======> 0.750662624836
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 18 358 130 =======> 0.854580879211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 19 341 177 =======> 0.813167452812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 20 100 200 =======> 0.810260951519
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 21 234 244 =======> 0.885413169861
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js U 22 196 288 =======> 0.908154308796
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 22 212 290 =======> 0.833606660366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js J 23 146 325 =======> 0.888508260250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js V 23 246 334 =======> 0.859287977219
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js G 23 395 349 =======> 0.958437442780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 23 411 351 =======> 0.593248665333
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 25 23 401 =======> 0.450448662043
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 25 271 423 =======> 0.959763765335
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js L 29 177 489 =======> 0.906465828419
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 29 195 491 =======> 0.808439075947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 30 99 517 =======> 0.897291719913
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 30 113 518 =======> 0.926617205143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js t 31 308 568 =======> 0.967332720757
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js K 31 456 580 =======> 0.928134143353
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js M 32 45 585 =======> 0.908497989178
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 42 404 799 =======> 0.793794929981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 123 811 =======> 0.915203630924
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 43 137 812 =======> 0.921391904354
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 441 834 =======> 0.428053438663
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 45 409 905 =======> 0.920469045639
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 46 151 917 =======> 0.018172247335
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 40 123 720
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 1 1 85 =======> 0.201070845127
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 18 1 90 =======> 0.751322031021
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js T 18 12 91 =======> 0.712689280510
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js d 18 26 94 =======> 0.550936937332
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 18 219 118 =======> 0.500797867775
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 18 358 130 =======> 0.776136994362
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 19 341 177 =======> 0.653982579708
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 20 100 200 =======> 0.598045825958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 21 234 244 =======> 0.887281239033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js U 22 196 288 =======> 0.906956434250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 22 212 290 =======> 0.662938237190
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js J 23 146 325 =======> 0.952790558338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js V 23 246 334 =======> 0.943677425385
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js G 23 395 349 =======> 0.926330149174
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 23 411 351 =======> 0.740100979805
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 25 23 401 =======> 0.693162381649
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 25 271 423 =======> 0.971159100533
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js L 29 177 489 =======> 0.790624678135
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 29 195 491 =======> 0.612330973148
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 30 99 517 =======> 0.823481798172
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 30 113 518 =======> 0.948340654373
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js t 31 308 568 =======> 0.970072627068
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js K 31 456 580 =======> 0.905706882477
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js M 32 45 585 =======> 0.959891498089
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 42 404 799 =======> 0.450763225555
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 123 811 =======> 0.670128405094
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 43 137 812 =======> 0.815943539143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 441 834 =======> 0.284870624542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 45 409 905 =======> 0.831479728222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 46 151 917 =======> 0.085702054203
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 41 76 751
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 1 1 85 =======> 0.190474927425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 18 1 90 =======> 0.709676325321
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js T 18 12 91 =======> 0.688529908657
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js d 18 26 94 =======> 0.554865658283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 18 219 118 =======> 0.487939089537
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 18 358 130 =======> 0.773949623108
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 19 341 177 =======> 0.648724079132
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 20 100 200 =======> 0.594991266727
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 21 234 244 =======> 0.890054047108
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js U 22 196 288 =======> 0.901939094067
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 22 212 290 =======> 0.652931809425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js J 23 146 325 =======> 0.955165147781
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js V 23 246 334 =======> 0.938459277153
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js G 23 395 349 =======> 0.918591439724
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 23 411 351 =======> 0.737625658512
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 25 23 401 =======> 0.681945085526
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js y 25 271 423 =======> 0.969714879990
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js L 29 177 489 =======> 0.783169031143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 29 195 491 =======> 0.609314143658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js v 30 99 517 =======> 0.816925108433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js b 30 113 518 =======> 0.948722779751
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js t 31 308 568 =======> 0.967753231525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js K 31 456 580 =======> 0.900629460812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js M 32 45 585 =======> 0.960764169693
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 42 404 799 =======> 0.429539710283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 123 811 =======> 0.651479303837
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js f 43 137 812 =======> 0.809171855450
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 43 441 834 =======> 0.280176788568
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 45 409 905 =======> 0.822712361813
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/src/assets/js/prettify.js nan 46 151 917 =======> 0.082654111087
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.spec.js testPackage 8 29 1406
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js addMetadataAliasesProcessor 10 17 1311 =======> 0.972489833832
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js nan 14 14 1320 =======> 0.010654793121
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js nan 15 19 1324 =======> 0.000027287510
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js extractSelectors 32 0 1345 =======> 0.012363784947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js nan 34 66 1357 =======> 0.000011543571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js nan 36 16 1364 =======> 0.000036204372
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js nan 41 25 1370 =======> 0.000069372305
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.js stripQuotes 47 0 1376 =======> 0.003962614574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.spec.js nan 5 44 1398 =======> 0.000000174527
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.spec.js nan 7 44 1401 =======> 0.000020785983
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.spec.js nan 14 47 1421 =======> 0.000008569949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.spec.js nan 19 48 1430 =======> 0.000008596537
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/addMetadataAliases.spec.js nan 24 68 1438 =======> 0.000227098149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.972004830837
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.066464468837
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.094981424510
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.211251243949
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.spec.js $process 25 4 1622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.js computeApiBreadCrumbs 1 17 1527 =======> 0.042503841221
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.js nan 5 12 1537 =======> 0.000354405958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.js nan 7 19 1541 =======> 0.000175092588
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.spec.js nan 5 65 1571 =======> 0.000000000880
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.spec.js nan 7 44 1574 =======> 0.000000144637
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeApiBreadCrumbs.spec.js nan 16 82 1603 =======> 0.000001031247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.216698169708
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.000321273546
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.000503126648
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.002426040359
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js processorFactory 15 22 1711
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.js computeSearchTitleProcessor 1 17 1643 =======> 0.817959487438
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.js nan 5 12 1652 =======> 0.000002705426
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.js nan 6 19 1656 =======> 0.000001985106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 5 41 1686 =======> 0.000000216729
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 7 44 1689 =======> 0.000025732823
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 14 47 1709 =======> 0.000009690809
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 19 48 1718 =======> 0.000009674363
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 24 51 1726 =======> 0.000787488825
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.940492570400
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.061617787927
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.055068213493
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.069450825453
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js $process 40 4 1751
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.js computeSearchTitleProcessor 1 17 1643 =======> 0.026901880279
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.js nan 5 12 1652 =======> 0.000354501215
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.js nan 6 19 1656 =======> 0.000058439931
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 5 41 1686 =======> 0.000000000944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 7 44 1689 =======> 0.000000051877
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 14 47 1709 =======> 0.000000027659
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 19 48 1718 =======> 0.000000027632
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/computeSearchTitle.spec.js nan 24 51 1726 =======> 0.000001237520
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.083674497902
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.000105714062
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.000165130623
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.000797276793
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getStability 43 15 2440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js generateApiListDoc 1 17 2367 =======> 0.000000080880
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 8 14 2381 =======> 0.001385008916
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 15 18 2394 =======> 0.000565291848
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getModuleInfo 22 0 2398 =======> 0.000000119924
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 29 14 2416 =======> 0.001012785826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 31 14 2421 =======> 0.000357581332
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 33 12 2426 =======> 0.000001632788
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getExportInfo 37 0 2432 =======> 0.000000011800
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getDocType 48 0 2446 =======> 0.000001605626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getStability 57 0 2457 =======> 0.000000101788
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 58 34 2461 =======> 0.487575173378
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js $process 45 4 2549
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js generateApiListDoc 1 17 2367 =======> 0.030127782375
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 8 14 2381 =======> 0.971402883530
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 15 18 2394 =======> 0.000037321886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getModuleInfo 22 0 2398 =======> 0.000091199399
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 29 14 2416 =======> 0.000103935155
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 31 14 2421 =======> 0.000115582363
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 33 12 2426 =======> 0.000263256137
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getExportInfo 37 0 2432 =======> 0.000010678021
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getDocType 48 0 2446 =======> 0.000067296780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getStability 57 0 2457 =======> 0.000021682465
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 58 34 2461 =======> 0.000014058922
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 5 41 2478 =======> 0.000000000222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 7 44 2481 =======> 0.000000006302
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 14 47 2501 =======> 0.000000003550
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 19 48 2510 =======> 0.000000003562
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 24 41 2518 =======> 0.000000024767
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 38 65 2536 =======> 0.000000061491
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 53 57 2563 =======> 0.000000064088
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 86 51 2600 =======> 0.000000060167
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 101 59 2618 =======> 0.000000060212
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 116 58 2634 =======> 0.000000062733
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 131 68 2651 =======> 0.000000064429
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 150 55 2675 =======> 0.000000064467
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 169 40 2695 =======> 0.000000080827
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.010681727901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.000013383793
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.000018025914
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.000073788804
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js $process 109 4 2627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js generateApiListDoc 1 17 2367 =======> 0.030306085944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 8 14 2381 =======> 0.971447229385
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 15 18 2394 =======> 0.000037455808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getModuleInfo 22 0 2398 =======> 0.000091657210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 29 14 2416 =======> 0.000104372251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 31 14 2421 =======> 0.000115993760
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 33 12 2426 =======> 0.000264789909
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getExportInfo 37 0 2432 =======> 0.000010734339
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getDocType 48 0 2446 =======> 0.000067680223
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js getStability 57 0 2457 =======> 0.000021801770
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.js nan 58 34 2461 =======> 0.000014077007
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 5 41 2478 =======> 0.000000000223
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 7 44 2481 =======> 0.000000006325
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 14 47 2501 =======> 0.000000003563
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 19 48 2510 =======> 0.000000003575
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 24 41 2518 =======> 0.000000024868
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 38 65 2536 =======> 0.000000061806
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 53 57 2563 =======> 0.000000064417
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 86 51 2600 =======> 0.000000060476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 101 59 2618 =======> 0.000000060521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 116 58 2634 =======> 0.000000063055
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 131 68 2651 =======> 0.000000064760
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 150 55 2675 =======> 0.000000064798
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/generateApiListDoc.spec.js nan 169 40 2695 =======> 0.000000081329
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.010747125372
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.000013486073
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.000018163686
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.000074334166
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js getBindingInfo 27 24 2870
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js matchUpDirectiveDecorators 15 17 2842 =======> 0.000576749444
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 19 14 2851 =======> 0.001422252622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 20 19 2855 =======> 0.045684061944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js getBindingInfo 34 0 2871 =======> 0.584491610527
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 39 30 2879 =======> 0.012285189703
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 46 20 2888 =======> 0.513030886650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 49 34 2893 =======> 0.551718354225
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 65 35 2908 =======> 0.694832980633
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js stripQuotes 68 0 2911 =======> 0.971193730831
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js parseBinding 72 0 2920 =======> 0.156774565578
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js createBindingInfo 80 0 2933 =======> 0.829469859600
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js testPackage 8 29 2959
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js matchUpDirectiveDecorators 15 17 2842 =======> 0.937307000160
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 19 14 2851 =======> 0.922634840012
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 20 19 2855 =======> 0.000077773446
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js getBindingInfo 34 0 2871 =======> 0.000794842141
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 39 30 2879 =======> 0.000361282873
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 46 20 2888 =======> 0.000008013018
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 49 34 2893 =======> 0.000002996618
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 65 35 2908 =======> 0.000031447882
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js stripQuotes 68 0 2911 =======> 0.000463303033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js parseBinding 72 0 2920 =======> 0.002307322808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js createBindingInfo 80 0 2933 =======> 0.001372690313
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 5 49 2951 =======> 0.000000367154
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 7 44 2954 =======> 0.000067936351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 17 92 2983 =======> 0.000104641214
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 27 84 3001 =======> 0.000316298188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 37 68 3014 =======> 0.000102208687
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 61 71 3038 =======> 0.000165340956
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 93 68 3076 =======> 0.000155839050
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 116 85 3113 =======> 0.000159221177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.971835732460
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.065791882575
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.094068028033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.210344508290
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js processorFactory 32 4 3007
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js matchUpDirectiveDecorators 15 17 2842 =======> 0.937115252018
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 19 14 2851 =======> 0.942735254765
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 20 19 2855 =======> 0.000137731695
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js getBindingInfo 34 0 2871 =======> 0.001485242858
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 39 30 2879 =======> 0.000649638125
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 46 20 2888 =======> 0.000013703515
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 49 34 2893 =======> 0.000005082772
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 65 35 2908 =======> 0.000059989154
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js stripQuotes 68 0 2911 =======> 0.001184192486
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js parseBinding 72 0 2920 =======> 0.004253060091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js createBindingInfo 80 0 2933 =======> 0.002793636639
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 5 49 2951 =======> 0.000000156525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 7 44 2954 =======> 0.000026566513
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 17 92 2983 =======> 0.000036625705
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 27 84 3001 =======> 0.000110723355
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 37 68 3014 =======> 0.000035774265
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 61 71 3038 =======> 0.000057873694
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 93 68 3076 =======> 0.000054547389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 116 85 3113 =======> 0.000055731329
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.925235807896
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.026759171858
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.037486039102
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.116981230676
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js processorFactory 104 4 3101
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js matchUpDirectiveDecorators 15 17 2842 =======> 0.934889912605
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 19 14 2851 =======> 0.940983057022
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 20 19 2855 =======> 0.000131214212
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js getBindingInfo 34 0 2871 =======> 0.001419057837
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 39 30 2879 =======> 0.000620665669
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 46 20 2888 =======> 0.000013148207
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 49 34 2893 =======> 0.000004876792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js nan 65 35 2908 =======> 0.000057150250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js stripQuotes 68 0 2911 =======> 0.001141447108
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js parseBinding 72 0 2920 =======> 0.004064037930
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.js createBindingInfo 80 0 2933 =======> 0.002643408487
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 5 49 2951 =======> 0.000000168396
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 7 44 2954 =======> 0.000030625928
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 17 92 2983 =======> 0.000042488096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 27 84 3001 =======> 0.000128444575
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 37 68 3014 =======> 0.000041500378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 61 71 3038 =======> 0.000067136854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 93 68 3076 =======> 0.000063278116
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/matchUpDirectiveDecorators.spec.js nan 116 85 3113 =======> 0.000064651613
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.930507183075
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.030409511179
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.042326010764
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.124010808766
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.spec.js processorFactory 63 22 3726
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js processClassLikeMembers 5 17 3505 =======> 0.806262850761
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 9 12 3514 =======> 0.029945326969
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 10 19 3518 =======> 0.000009524250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 14 30 3527 =======> 0.000015512354
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 25 83 3549 =======> 0.000007059671
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 35 30 3559 =======> 0.000016299782
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js isMethod 50 0 3565 =======> 0.000117400399
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js computeMemberDescription 54 0 3573 =======> 0.000271967088
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 57 46 3580 =======> 0.000000136244
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.js nan 57 87 3582 =======> 0.000052873515
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.spec.js nan 13 67 3628 =======> 0.000000184838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.spec.js nan 15 44 3631 =======> 0.000020263322
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.spec.js nan 24 65 3660 =======> 0.000178747199
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.spec.js nan 43 63 3693 =======> 0.000182189324
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/processClassLikeMembers.spec.js nan 62 117 3724 =======> 0.000524361909
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.926503002644
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.043530624360
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.043158881366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.060733877122
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js processorFactory 34 26 3868
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js simplifyMemberAnchors 6 17 3762 =======> 0.815439045429
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 10 14 3771 =======> 0.064176753163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 11 26 3776 =======> 0.000002278332
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 13 30 3781 =======> 0.000001143196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 19 30 3790 =======> 0.000001139202
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js computeAnchor 29 0 3792 =======> 0.000501485367
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 5 44 3812 =======> 0.000000011066
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 7 44 3815 =======> 0.000021822967
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 16 23 3844 =======> 0.000000003050
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 17 37 3846 =======> 0.000000020783
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 18 35 3848 =======> 0.000125674647
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 32 34 3864 =======> 0.000000049877
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 33 62 3866 =======> 0.000097927710
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 39 35 3883 =======> 0.000000555022
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 42 59 3888 =======> 0.000104941799
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 48 35 3903 =======> 0.000001274388
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 52 41 3906 =======> 0.000000049956
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 53 60 3908 =======> 0.000105524210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 59 35 3923 =======> 0.000000925439
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 62 57 3926 =======> 0.000104124425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 68 35 3940 =======> 0.000002336173
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.918524205685
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.045964542776
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.038966793567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.048487544060
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js $process 38 8 3878
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js simplifyMemberAnchors 6 17 3762 =======> 0.034644752741
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 10 14 3771 =======> 0.972712099552
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 11 26 3776 =======> 0.000062718093
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 13 30 3781 =======> 0.000034632107
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 19 30 3790 =======> 0.000032256256
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js computeAnchor 29 0 3792 =======> 0.051548078656
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 5 44 3812 =======> 0.000000000012
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 7 44 3815 =======> 0.000000010594
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 16 23 3844 =======> 0.000000000003
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 17 37 3846 =======> 0.000000000023
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 18 35 3848 =======> 0.000000065497
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 32 34 3864 =======> 0.000000000054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 33 62 3866 =======> 0.000000051672
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 39 35 3883 =======> 0.000063523461
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 42 59 3888 =======> 0.000000054159
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 48 35 3903 =======> 0.000114438408
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 52 41 3906 =======> 0.000000000054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 53 60 3908 =======> 0.000000054518
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 59 35 3923 =======> 0.000094254501
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 62 57 3926 =======> 0.000000053839
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 68 35 3940 =======> 0.000184538236
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.017712937668
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.000022485430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.000035218985
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.000145126585
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js processorFactory 63 26 3928
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js simplifyMemberAnchors 6 17 3762 =======> 0.815627515316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 10 14 3771 =======> 0.064022317529
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 11 26 3776 =======> 0.000002276749
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 13 30 3781 =======> 0.000001142274
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js nan 19 30 3790 =======> 0.000001138474
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.js computeAnchor 29 0 3792 =======> 0.000500757887
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 5 44 3812 =======> 0.000000011094
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 7 44 3815 =======> 0.000021851871
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 16 23 3844 =======> 0.000000003058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 17 37 3846 =======> 0.000000020835
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 18 35 3848 =======> 0.000125840845
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 32 34 3864 =======> 0.000000050002
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 33 62 3866 =======> 0.000098057222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 39 35 3883 =======> 0.000000554528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 42 59 3888 =======> 0.000105080588
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 48 35 3903 =======> 0.000001273362
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 52 41 3906 =======> 0.000000050081
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 53 60 3908 =======> 0.000105663872
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 59 35 3923 =======> 0.000000924614
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 62 57 3926 =======> 0.000104262130
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/simplifyMemberAnchors.spec.js nan 68 35 3940 =======> 0.000002334291
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.918619692326
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.046044249088
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.039009727538
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.048533629626
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js processorFactory 59 22 4079
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.js splitDescription 6 17 3945 =======> 0.722218155861
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.js nan 11 12 3956 =======> 0.000707936415
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.js nan 12 19 3960 =======> 0.000006447751
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 5 39 3997 =======> 0.000000188947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 7 44 4000 =======> 0.000015917240
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 14 48 4020 =======> 0.000006202536
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 19 47 4029 =======> 0.000006180517
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 24 94 4037 =======> 0.000161988020
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 58 69 4077 =======> 0.000140284275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.918360412121
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.037159997970
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.035243410617
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.045587446541
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js $process 65 4 4085
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.js splitDescription 6 17 3945 =======> 0.006498774979
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.js nan 11 12 3956 =======> 0.262419790030
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.js nan 12 19 3960 =======> 0.000205708857
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 5 39 3997 =======> 0.000000000726
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 7 44 4000 =======> 0.000000029446
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 14 48 4020 =======> 0.000000016443
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 19 47 4029 =======> 0.000000016400
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 24 94 4037 =======> 0.000000215727
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-api-package/processors/splitDescription.spec.js nan 58 69 4077 =======> 0.000000195322
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.041421387345
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.000050051185
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.000078394143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.000378624536
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js foundValidDoc 102 39 4642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js autoLinkCode 23 17 4503 =======> 0.001159221982
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js autoLinkCodeImpl 33 2 4519 =======> 0.001614660141
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 34 11 4521 =======> 0.000461654708
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 35 28 4525 =======> 0.002930279588
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 40 28 4534 =======> 0.054767422378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js isValidCodeElement 66 2 4576 =======> 0.568001747131
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 71 61 4581 =======> 0.072100386024
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js isInsideLink 80 2 4600 =======> 0.070518329740
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 81 26 4603 =======> 0.137323230505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js getFilteredDocsFromAlias 84 2 4606 =======> 0.630942523479
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 87 6 4611 =======> 0.505771100521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js shouldSkipFindingValidDoc 90 2 4615 =======> 0.006942890584
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 91 47 4619 =======> 0.084171563387
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js getNodes 94 2 4622 =======> 0.240950539708
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 97 14 4629 =======> 0.058659907430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js nan 98 11 4632 =======> 0.365535855293
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js foundValidDoc 119 2 4646 =======> 0.916306972504
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/post-processors/auto-link-code.js createLinkNode 147 2 4678 =======> 0.948927044868
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.spec.js processorFactory 25 22 5806
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.js fixInternalDocumentLinks 9 17 5725 =======> 0.767443835735
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.js nan 16 14 5736 =======> 0.001503636595
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.js nan 17 19 5740 =======> 0.000017889697
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.js nan 18 73 5745 =======> 0.000000470816
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.spec.js nan 5 47 5764 =======> 0.000000163716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.spec.js nan 7 44 5767 =======> 0.000019048455
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.spec.js nan 14 48 5787 =======> 0.000007258652
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.spec.js nan 19 47 5796 =======> 0.000007237397
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/fixInternalDocumentLinks.spec.js nan 24 68 5804 =======> 0.000103629449
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.932313144207
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.048080250621
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.046291839331
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.062184490263
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js createProcessor 99 22 5993
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js createProcessor 14 0 5850 =======> 0.719615757465
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 20 39 5858 =======> 0.000003019389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 21 44 5861 =======> 0.000035746645
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 28 47 5881 =======> 0.000025649031
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 33 48 5890 =======> 0.000025828018
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 38 51 5898 =======> 0.000080885839
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 48 67 5926 =======> 0.000238132227
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 62 94 5946 =======> 0.000200718438
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 78 61 5972 =======> 0.000069681133
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 98 89 5991 =======> 0.000085749089
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 114 70 6027 =======> 0.000133063761
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 121 53 6043 =======> 0.000106021667
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 138 61 6064 =======> 0.000106018233
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 163 96 6096 =======> 0.000106018022
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 187 71 6126 =======> 0.000590994547
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 230 106 6174 =======> 0.000590994547
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 273 73 6216 =======> 0.000106011968
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/generateKeywords.spec.js nan 296 68 6237 =======> 0.000087543223
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.654472053051
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.022097203881
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.009817467071
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.008854164742
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js processorFactory 164 22 6527
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js renderLinkInfo 6 17 6272 =======> 0.945017874241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 11 12 6284 =======> 0.073236115277
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 14 38 6296 =======> 0.000005565146
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 17 26 6304 =======> 0.000240237117
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 21 29 6312 =======> 0.000038239428
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 28 26 6320 =======> 0.000147233397
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 32 51 6333 =======> 0.000000174893
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 33 53 6344 =======> 0.000000261641
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js getLinks 39 0 6348 =======> 0.010386426933
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 40 45 6355 =======> 0.000004485752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.js nan 43 16 6363 =======> 0.000039460458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 6 37 6394 =======> 0.000000108394
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 8 44 6397 =======> 0.000003164799
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 15 48 6417 =======> 0.000001294482
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 20 47 6426 =======> 0.000001289757
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 25 55 6434 =======> 0.000042745065
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 51 42 6454 =======> 0.000041239917
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 69 45 6467 =======> 0.000041239877
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 87 51 6480 =======> 0.000041239840
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 105 66 6493 =======> 0.000042745145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 129 53 6508 =======> 0.000043774176
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 163 47 6525 =======> 0.000042538893
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/processors/renderLinkInfo.spec.js nan 189 61 6540 =======> 0.000043774216
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.881249129772
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.009040514007
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.010250589810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.027865858749
+Total edge above 0.9 ===>  9
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js process 29 11 6841
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js nan 1 17 6744 =======> 0.000497545581
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js nan 4 13 6749 =======> 0.767730832100
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js balance 27 0 6767 =======> 0.016930779442
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js nan 31 24 6776 =======> 0.000150365537
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 3 32 6803 =======> 0.000000022705
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 6 13 6808 =======> 0.000006334817
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 9 4 6812 =======> 0.000000251947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 11 64 6819 =======> 0.000000215151
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 16 78 6825 =======> 0.000000530539
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 24 92 6833 =======> 0.000000213369
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 28 91 6838 =======> 0.000001463284
+Total edge above 0.9 ===>  10
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js process 31 11 6847
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js nan 1 17 6744 =======> 0.000497545348
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js nan 4 13 6749 =======> 0.767730295658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js balance 27 0 6767 =======> 0.016930762678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.js nan 31 24 6776 =======> 0.000150365391
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 3 32 6803 =======> 0.000000022705
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 6 13 6808 =======> 0.000006334817
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 9 4 6812 =======> 0.000000251947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 11 64 6819 =======> 0.000000215151
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 16 78 6825 =======> 0.000000530540
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 24 92 6833 =======> 0.000000213369
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/rendering/truncateCode.spec.js nan 28 91 6838 =======> 0.000001463285
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js filterAmbiguousDirectiveAliases 46 15 6981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 5 64 6913 =======> 0.000000000205
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 6 92 6916 =======> 0.000000348713
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 18 63 6943 =======> 0.000000000054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 19 76 6945 =======> 0.000000000444
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 20 46 6947 =======> 0.000029313438
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 37 72 6966 =======> 0.000000000392
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/angular-base-package/services/filterAmbiguousDirectiveAliases.spec.js nan 38 107 6968 =======> 0.000000236781
+Total edge above 0.9 ===>  12
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeKey 30 18 8293
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 7 11 8261 =======> 0.400827288628
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 9 29 8272 =======> 0.154810577631
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 18 17 8277 =======> 0.670284628868
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeAttribute 29 4 8291 =======> 0.930467247963
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js skipSpace 44 4 8307 =======> 0.925158262253
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js tryEquals 50 4 8312 =======> 0.361500889063
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeKey 57 4 8316 =======> 0.134270027280
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js tryQuote 65 4 8325 =======> 0.653627574444
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeValue 73 4 8334 =======> 0.884864926338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 94 18 8355 =======> 0.719400823116
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 95 36 8361 =======> 0.009779738262
+Total edge above 0.9 ===>  12
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js parseAttributes 61 20 8481
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 7 11 8261 =======> 0.001067991834
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 9 29 8272 =======> 0.000045656801
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 18 17 8277 =======> 0.852284431458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeAttribute 29 4 8291 =======> 0.031410321593
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js skipSpace 44 4 8307 =======> 0.021072212607
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js tryEquals 50 4 8312 =======> 0.040214799345
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeKey 57 4 8316 =======> 0.050285171717
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js tryQuote 65 4 8325 =======> 0.036629345268
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js takeValue 73 4 8334 =======> 0.001937063411
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 94 18 8355 =======> 0.701437950134
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.js nan 95 36 8361 =======> 0.000000186209
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 3 18 8384 =======> 0.000000063367
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 4 24 8386 =======> 0.000001222303
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 5 31 8389 =======> 0.000612430566
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 7 43 8397 =======> 0.000352935225
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 12 50 8409 =======> 0.000310204196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 14 43 8415 =======> 0.000600404164
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 19 30 8420 =======> 0.000007528736
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 20 36 8422 =======> 0.000155801754
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 25 36 8430 =======> 0.000155801754
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 30 48 8437 =======> 0.000173137043
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 35 47 8444 =======> 0.000173137218
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 40 48 8451 =======> 0.000173137378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 45 35 8458 =======> 0.000173137378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 50 60 8465 =======> 0.000173137218
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 55 62 8472 =======> 0.000173137218
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 60 40 8479 =======> 0.000193813583
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 65 43 8486 =======> 0.000173137378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 70 62 8493 =======> 0.000055531702
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 71 13 8496 =======> 0.716622352600
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 77 31 8500 =======> 0.000003334415
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 78 76 8502 =======> 0.000057125242
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 82 39 8510 =======> 0.000057104215
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 87 55 8517 =======> 0.000057159297
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 91 59 8523 =======> 0.000057159348
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/utils.spec.js nan 95 40 8529 =======> 0.000057237241
+Total edge above 0.9 ===>  12
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByDeprecated.spec.js disambiguateByDeprecated 10 11 8807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByDeprecated.spec.js nan 8 37 8800 =======> 0.000006444585
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByDeprecated.spec.js nan 9 70 8803 =======> 0.000323245651
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByDeprecated.spec.js nan 13 63 8813 =======> 0.000314704579
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByNonMember.spec.js require 1 32 8923
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByNonMember.spec.js nan 8 36 8950 =======> 0.000000400866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByNonMember.spec.js nan 9 52 8953 =======> 0.000020465995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByNonMember.spec.js nan 14 55 8965 =======> 0.000020563542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/disambiguators/disambiguateByNonMember.spec.js nan 19 57 8974 =======> 0.000019683925
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js testPackage 8 27 9377
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js testPackage 13 17 8225 =======> 0.984290480614
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 18 21 8236 =======> 0.205247610807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 22 29 8246 =======> 0.243977829814
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/helpers/test-package.js nan 26 34 8252 =======> 0.343712061644
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 6 24 9369 =======> 0.000001021436
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 7 13 9372 =======> 0.012361247092
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 14 42 9387 =======> 0.000517393521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 21 67 9409 =======> 0.000450984458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 30 84 9429 =======> 0.000482469477
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 38 92 9442 =======> 0.000481371128
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/links-package/services/getLinkInfo.spec.js nan 46 99 9455 =======> 0.000480463466
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js createOpenMatcher 99 56 9704
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/handlers/code.js code 4 17 9484 =======> 0.318508535624
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js headingToLevel 3 0 9525 =======> 0.960092782974
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js parseMappings 8 0 9534 =======> 0.799569189548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js nan 10 32 9545 =======> 0.455077379942
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js mapHeadings 14 17 9552 =======> 0.009572491981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js nan 16 9 9559 =======> 0.217143863440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js nan 16 15 9560 =======> 0.937922358513
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js nan 18 34 9567 =======> 0.235313788056
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js nan 19 28 9569 =======> 0.421592026949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/plugins/mapHeadings.js nan 27 23 9578 =======> 0.175285995007
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js renderMarkdown 13 17 9596 =======> 0.002678479068
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js renderMarkdownImpl 14 9 9599 =======> 0.016526386142
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js noIndentedCodeBlocks 33 2 9625 =======> 0.000570496486
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js inlineTagDefs 43 2 9634 =======> 0.008290328085
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js tokenizeInlineTag 58 4 9652 =======> 0.245341569185
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js inlineTagLocator 72 4 9667 =======> 0.070020735264
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js plainHTMLBlocks 80 2 9671 =======> 0.025123560801
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js tokenizePlainHTMLBlocks 94 4 9692 =======> 0.101980686188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js matchRecursiveRegExp 145 0 9723 =======> 0.388640046120
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js rgxFindMatchPos 162 0 9752 =======> 0.880321860313
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js createOpenMatcher 202 0 9803 =======> 0.958056449890
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/docs_app/tools/transforms/remark-package/services/renderMarkdown.js createCloseMatcher 212 0 9822 =======> 0.298539370298
+Total edge above 0.9 ===>  14
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/tools/add-license-to-file.js addLicenseTextToFile 24 2 10217
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/tools/add-license-to-file.js addLicenseTextToFile 3 0 10188 =======> 0.001397942426
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/rxjs/tools/add-license-to-file.js addLicenseToFile 19 0 10210 =======> 0.000434809102
+Total edge above 0.9 ===>  14
+
+
+RANK 1 number of edge 15 ===>  7.5
+
+

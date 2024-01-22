@@ -1,0 +1,209 @@
+{
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/.config/plugin/babel/add-import-extension.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/.config/plugin/babel/babel/core.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/.config/plugin/babel/babel/helper-plugin-utils.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/.config/plugin/babel/fs.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/.config/plugin/babel/path.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/.config/plugin/babel/plugins.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/dist/formula-parser.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/dist/formula-parser.min.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/scripts/prepare-package.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/scripts/fs-extra.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/scripts/path.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/evaluate-by-operator.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/add.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/ampersand.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/divide.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/equal.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/formula-function.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/greater-than.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/greater-than-or-equal.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/less-than.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/less-than-or-equal.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/minus.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/multiply.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/not-equal.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/power.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/add.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/ampersand.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/divide.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/equal.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/formula-function.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/handsontable/formulajs.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/supported-formulas.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/greater-than-or-equal.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/greater-than.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/less-than-or-equal.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/less-than.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/minus.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/multiply.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/not-equal.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/power.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/grammar-parser/grammar-parser.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/cell.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/string.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/index.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/supported-formulas.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/cell.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/tiny-emitter.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/evaluate-by-operator.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/grammar-parser/grammar-parser.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/string.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/cell.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/supported-formulas.js": [],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/index.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/jest.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/coordinates.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/error.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/date-time.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/engineering.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/financial.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/information.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/logical.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/lookup-reference.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/math-trig.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/miscellaneous.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/statistical.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula/text.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/formula.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/function.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/general.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/logical.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/math.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/integration/parsing/variable.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/error.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/error.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/evaluate-by-operator.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/evaluate-by-operator.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/add.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/add.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/ampersand.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/ampersand.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/divide.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/divide.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/equal.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/equal.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/formula-function.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/supported-formulas.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/formula-function.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/greater-than-or-equal.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/greater-than-or-equal.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/greater-than.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/greater-than.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/less-than-or-equal.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/less-than-or-equal.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/less-than.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/less-than.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/minus.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/minus.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/multiply.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/multiply.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/non-equal.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/not-equal.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/evaluate-by-operator/operator/power.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/evaluate-by-operator/operator/power.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/helper/cell.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/cell.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/helper/number.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/number.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/helper/string.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/helper/string.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/index.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/index.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/parser.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/parser.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/test/unit/supported-formulas.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/src/supported-formulas.js"
+    ],
+    "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/webpack.config.js": [
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/webpack.js",
+        "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/formula-parser/path.js"
+    ]
+}

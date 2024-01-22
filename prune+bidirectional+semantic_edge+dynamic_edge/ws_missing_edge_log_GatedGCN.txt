@@ -1,0 +1,1462 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js listeners 190 27 937
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.519005715847
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.328777462244
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.898848593235
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.105267427862
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.165924012661
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.354965299368
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.230738371611
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.246889844537
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.073987200856
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.336780875921
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.499427318573
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.135970652103
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.646850645542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.945299208164
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.076853357255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.018959464505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.022841125727
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.047715023160
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.150195568800
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.250535428524
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js MessageEvent 204 22 951
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.005976934917
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.996155321598
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.761435747147
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.764252543449
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.995071530342
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.725156188011
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.818655729294
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.812069237232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.991160988808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.721266627312
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.574944436550
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.994216442108
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.434942752123
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.018850659952
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.000259035238
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.000127506763
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.000156792667
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.000192868058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.000338998041
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.000380319543
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 209 8 956
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.117972113192
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.012401835993
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.228330776095
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.006927571259
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.005604455713
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.020629735664
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.012723540887
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.013763832860
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.002801722148
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.020014446229
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.034185126424
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.004911405500
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.061911325902
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.773450791836
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.516447365284
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.228334009647
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.248285338283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.386644303799
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.689836621284
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.921018302441
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js CloseEvent 213 22 962
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.023490490392
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.998101532459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.883261919022
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.921406388283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.997223258018
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.874261498451
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.928427398205
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.919717788696
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.995954751968
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.880729794502
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.783694922924
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.996499657631
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.716714978218
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.057184796780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.000498941634
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.000232312857
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.000359466998
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.000337904203
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.000670703303
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.000754562032
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 220 8 967
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.547868013382
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.039143960923
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.717763841152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.036878958344
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.015330556780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.134467914701
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.077773213387
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.084410317242
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.007334614638
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.127893149853
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.224497169256
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.013172495179
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.363038212061
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.961520671844
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.466562867165
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.183496192098
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.224150449038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.266339600086
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.545929014683
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.762485980988
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js ErrorEvent 224 22 972
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.004176435061
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.997949779034
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.521586239338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.673272907734
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.996608734131
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.450278639793
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.613519191742
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.583447933197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.993372321129
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.467547655106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.302419632673
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.994476020336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.235565185547
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.007861164398
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.000136159360
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.000070401882
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.000092444578
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.000104384402
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.000169746752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.000173730892
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 230 8 974
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.028352119029
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.006102097686
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.065607964993
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.002430466469
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.002812610241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.007498644292
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.004723186139
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.005159615539
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.001365788747
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.006996930577
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.011550900526
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.002389935311
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.018359469250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.419943749905
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.311557173729
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.123165048659
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.119372539222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.207644551992
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.489676326513
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.934095680714
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 237 8 980
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.310612976551
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.013785759918
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.474339455366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.015838691965
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.006147201173
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.052206162363
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.029568439350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.032620884478
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.003097010544
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.049444548786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.092939734459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.005334216170
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.167508348823
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.915382146835
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.642285704613
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.309283822775
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.368896573782
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.400944292545
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.677542090416
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.883558332920
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js listeners 261 27 993
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.456404954195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 24 13 838 =======> 0.322445571423
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 32 12 842 =======> 0.879414021969
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 39 10 845 =======> 0.087296530604
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 66 13 859 =======> 0.161971837282
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 77 10 873 =======> 0.311383813620
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 84 12 876 =======> 0.200886204839
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 91 14 879 =======> 0.214726120234
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 115 13 891 =======> 0.072035752237
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 125 11 901 =======> 0.292193949223
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 132 13 904 =======> 0.447847962379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 154 13 914 =======> 0.132618516684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 163 10 922 =======> 0.598241984844
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 189 18 930 =======> 0.928187429905
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onMessage 203 16 946 =======> 0.074350625277
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onClose 212 16 959 =======> 0.018043113872
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onError 223 16 969 =======> 0.021949702874
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js onOpen 233 16 976 =======> 0.046362243593
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js nan 260 21 990 =======> 0.154876857996
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/event-target.js callListener 286 0 1002 =======> 0.249840900302
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 59 10 1086
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.961211502552
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.078370362520
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.095165424049
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.018461810425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.310441136360
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.272647619247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.500095963478
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.897882580757
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.882202625275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.355604559183
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.382435649633
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 82 10 1116
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.979393720627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.185302451253
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.206544250250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.042329713702
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.481869399548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.530091106892
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.755844235420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.934659600258
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.944767117500
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.571417033672
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.599385499954
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 157 4 1198
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.989830434322
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.893749356270
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.935202062130
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.779382526875
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.615002214909
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.980236113071
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.978584587574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.903391003609
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.958472609520
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.944560825825
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.928862035275
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 162 6 1202
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.979609966278
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.109789818525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.072895810008
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.014940410852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.665834486485
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.369202017784
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.512376308441
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.970962047577
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.956473231316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.581967771053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.609420120716
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/limiter.js kRun 20 6 1277
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/limiter.js nan 17 13 1272 =======> 0.994665622711
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/limiter.js nan 18 18 1274 =======> 0.999786555767
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/limiter.js nan 33 5 1283 =======> 0.999918222427
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/limiter.js nan 43 8 1289 =======> 0.968980193138
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 52 4 1367
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.998745918274
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.233438372612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.017636265606
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.008120037615
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.925199925900
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.323519736528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.042224150151
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.983933448792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 51 13 1363 =======> 0.997502148151
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 88 8 1403 =======> 0.964299142361
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 103 9 1417 =======> 0.935124397278
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 148 11 1449 =======> 0.997243642807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 178 20 1478 =======> 0.868767857552
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 195 9 1483 =======> 0.894726634026
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 351 20 1551 =======> 0.680755198002
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 367 20 1560 =======> 0.846101045609
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 401 12 1580 =======> 0.476810485125
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 425 9 1587 =======> 0.249569743872
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 442 9 1592 =======> 0.991263508797
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 488 12 1615 =======> 0.991182088852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 491 50 1619 =======> 0.986808776855
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 524 13 1637 =======> 0.311751037836
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 574 16 1664 =======> 0.798978567123
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js error 641 0 1696 =======> 0.968107938766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js queueMicrotaskShim 657 0 1711 =======> 0.829892218113
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwError 667 0 1717 =======> 0.000464733050
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwErrorNextTick 677 0 1720 =======> 0.000446560472
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.190932288766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.718690395355
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.915451586246
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.881794929504
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js startLoop 93 4 1413
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.998220145702
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.081812977791
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.006322369911
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.002927733818
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.831700742245
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.121540814638
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.015953019261
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.930493652821
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 51 13 1363 =======> 0.997499763966
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 88 8 1403 =======> 0.909376859665
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 103 9 1417 =======> 0.965212941170
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 148 11 1449 =======> 0.995116949081
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 178 20 1478 =======> 0.772301554680
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 195 9 1483 =======> 0.848089396954
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 351 20 1551 =======> 0.662610948086
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 367 20 1560 =======> 0.824955582619
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 401 12 1580 =======> 0.650712490082
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 425 9 1587 =======> 0.342076271772
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 442 9 1592 =======> 0.988906979561
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 488 12 1615 =======> 0.977719783783
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 491 50 1619 =======> 0.957809329033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 524 13 1637 =======> 0.487717032433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 574 16 1664 =======> 0.799437344074
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js error 641 0 1696 =======> 0.977221488953
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js queueMicrotaskShim 657 0 1711 =======> 0.580720365047
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwError 667 0 1717 =======> 0.000178606308
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwErrorNextTick 677 0 1720 =======> 0.000168304468
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.070847347379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.432218790054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.789935112000
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.716618120670
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js startLoop 180 12 1479
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.998909115791
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.044311258942
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.003684646450
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.001593620866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.722253918648
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.065559819341
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.009473758750
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.941547393799
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 51 13 1363 =======> 0.998434960842
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 88 8 1403 =======> 0.868045806885
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 103 9 1417 =======> 0.947369277477
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 148 11 1449 =======> 0.996189773083
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 178 20 1478 =======> 0.722854018211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 195 9 1483 =======> 0.742167651653
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 351 20 1551 =======> 0.502030372620
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 367 20 1560 =======> 0.708448708057
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 401 12 1580 =======> 0.539696872234
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 425 9 1587 =======> 0.237506479025
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 442 9 1592 =======> 0.983881115913
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 488 12 1615 =======> 0.980905890465
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 491 50 1619 =======> 0.968581140041
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 524 13 1637 =======> 0.405975937843
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 574 16 1664 =======> 0.671715199947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js error 641 0 1696 =======> 0.960055530071
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js queueMicrotaskShim 657 0 1711 =======> 0.386547297239
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwError 667 0 1717 =======> 0.000121894736
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwErrorNextTick 677 0 1720 =======> 0.000119726370
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.039218645543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.296790063381
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.661145031452
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.569980323315
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js error 306 13 1530
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.566195964813
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.190986737609
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.030174087733
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.009476094507
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.557002484798
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.271184682846
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.066519856453
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.031594399363
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 51 13 1363 =======> 0.885240495205
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 88 8 1403 =======> 0.064059801400
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 103 9 1417 =======> 0.994066715240
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 148 11 1449 =======> 0.180757284164
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 178 20 1478 =======> 0.091553501785
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 195 9 1483 =======> 0.472969502211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 351 20 1551 =======> 0.711014091969
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 367 20 1560 =======> 0.844896137714
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 401 12 1580 =======> 0.961166024208
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 425 9 1587 =======> 0.715620994568
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 442 9 1592 =======> 0.272324651480
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 488 12 1615 =======> 0.066683754325
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 491 50 1619 =======> 0.015638826415
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 524 13 1637 =======> 0.759858548641
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 574 16 1664 =======> 0.827083110809
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js error 641 0 1696 =======> 0.992848396301
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js queueMicrotaskShim 657 0 1711 =======> 0.090487673879
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwError 667 0 1717 =======> 0.000057464807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwErrorNextTick 677 0 1720 =======> 0.000026810185
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.164474740624
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.328465878963
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.204304441810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.175576552749
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js dataMessage 511 17 1631
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.976772844791
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.051892004907
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.005003867671
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.001767696231
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.403728663921
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.082067735493
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.012192496099
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.232828244567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 51 13 1363 =======> 0.997015953064
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 88 8 1403 =======> 0.245593056083
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 103 9 1417 =======> 0.991526305676
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 148 11 1449 =======> 0.731510519981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 178 20 1478 =======> 0.400799483061
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 195 9 1483 =======> 0.679575026035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 351 20 1551 =======> 0.778528869152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 367 20 1560 =======> 0.828779697418
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 401 12 1580 =======> 0.962351500988
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 425 9 1587 =======> 0.877082467079
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 442 9 1592 =======> 0.674882531166
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 488 12 1615 =======> 0.397411048412
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 491 50 1619 =======> 0.128566116095
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 524 13 1637 =======> 0.978180944920
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js nan 574 16 1664 =======> 0.870753347874
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js error 641 0 1696 =======> 0.981685638428
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js queueMicrotaskShim 657 0 1711 =======> 0.121236056089
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwError 667 0 1717 =======> 0.000027921013
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/receiver.js throwErrorNextTick 677 0 1720 =======> 0.000022946209
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.049675200135
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.150018185377
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.273025840521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.230775490403
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js applyMask 138 6 1838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.960687398911
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.979866504669
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.761603176594
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.524899005890
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.992439150810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.989407360554
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.907270431519
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.558092176914
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.251026898623
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.977349340916
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.928432524204
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.242937937379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.214277997613
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.407031565905
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.831459343433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.579362273216
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.980289638042
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.777285337448
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.927604854107
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.973879694939
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.991404533386
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.991094291210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.990215063095
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js applyMask 142 4 1841
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.969740152359
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.944045722485
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.434802055359
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.219019904733
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.992963016033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.953837275505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.705412626266
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.576304316521
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.226638630033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.981439173222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.945003688335
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.186841204762
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.174738377333
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.330012083054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.842337787151
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.591321945190
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.976717233658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.466448813677
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.943762362003
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.931723654270
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.986611247063
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.992781341076
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.991335093975
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js isValidStatusCode 160 44 1855
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.928153812885
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.936061024666
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.436151385307
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.193757280707
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.988271296024
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.960917830467
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.713304877281
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.305597275496
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.117410480976
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.963106095791
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.874795019627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.094703696668
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.085242658854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.182427868247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.679971694946
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.353809982538
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.950885772705
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.480242788792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.868885397911
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.931553661823
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.979127228260
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.968427836895
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.960183322430
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js enqueue 194 6 1881
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.995165586472
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.116983212531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.009677575901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.003699963214
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.726866900921
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.173157081008
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.024148922414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.806913316250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.990040481091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.998703598976
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.995357215405
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.954088032246
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.948523998260
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.986938476562
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.723247885704
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.673494458199
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.869179248810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.993057012558
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.992925763130
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.108316674829
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.384285211563
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.595785796642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.528373420238
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js toBuffer 216 13 1896
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.922076642513
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.913611710072
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.401370197535
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.191934123635
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.986980736256
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.942129194736
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.663418650627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.207147791982
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.066726170480
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.935657680035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.851657450199
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.056032598019
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.051862724125
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.112626761198
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.594487547874
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.267123639584
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.896214604378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.370988309383
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.855159282684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.892617821693
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.962093532085
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.952355921268
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.936424612999
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js toBuffer 259 13 1915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.921538174152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.912302315235
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.398327827454
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.189367249608
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.986799299717
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.940772712231
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.660350680351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.204191729426
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.065741330385
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.934861540794
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.850026905537
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.055131223053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.051024742424
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.110930912197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.589005649090
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.263596385717
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.894123613834
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.367433190346
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.853227555752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.890988171101
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.961479842663
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.951283574104
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.935018181801
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js enqueue 353 8 1955
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.995475590229
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.204349189997
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.017297744751
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.007865003310
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.890674352646
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.301985442638
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.043368279934
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.888588309288
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.975913703442
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.998489737511
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.995686709881
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.957466065884
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.950058937073
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.981373131275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.857936918736
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.824020981789
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.958027541637
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.983271658421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.993426561356
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.179174482822
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.610884904861
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.836573779583
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.787285625935
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js dispatch 355 8 1957
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.999094486237
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.772041082382
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.159852474928
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.077367059886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.989298105240
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.838155269623
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.334206849337
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.991837799549
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.945305168629
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.998393476009
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.998101174831
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.957919657230
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.954212725163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.973362326622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.994526207447
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.994276583195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.992729365826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.406838119030
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.998259127140
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.745519340038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.968727886677
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.990752577782
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.988756000996
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js sendFrame 358 6 1958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.998128473759
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.619367241859
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.085715569556
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.049415413290
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.957487583160
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.592503428459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.182379513979
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.934671044350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.699758887291
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.996119737625
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.996132016182
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.801767408848
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.791780591011
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.853177309036
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.969659447670
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.975268840790
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.902350127697
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.045250847936
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.996493756771
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.586921870708
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.916225135326
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.959344804287
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.948362767696
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js cb 413 38 1980
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.995391607285
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.228884980083
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.021270364523
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.009451250546
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.938169598579
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.310605227947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.052093423903
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.897637963295
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.684911429882
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.996020972729
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.991117596626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.724012196064
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.713237583637
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.802522897720
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.951889812946
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.912186443806
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.941471934319
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.104187287390
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.991137921810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.219053864479
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.745966792107
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.938666701317
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.921744346619
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js callback 419 46 1990
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js concat 15 0 687 =======> 0.862771451473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _mask 45 0 716 =======> 0.918424367905
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js _unmask 58 0 724 =======> 0.377783119678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toArrayBuffer 71 0 729 =======> 0.182881087065
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js toBuffer 87 0 737 =======> 0.977890312672
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 119 26 769 =======> 0.917581200600
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/buffer-util.js nan 124 28 773 =======> 0.619952499866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/constants.js nan 11 8 800 =======> 0.123476944864
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 28 13 1765 =======> 0.041063521057
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 67 14 1784 =======> 0.850784122944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 155 7 1846 =======> 0.700234353542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 208 6 1890 =======> 0.025515837595
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 251 6 1909 =======> 0.023365711793
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 302 6 1928 =======> 0.046972978860
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 397 10 1962 =======> 0.355596542358
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 407 50 1970 =======> 0.116760648787
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 438 9 1997 =======> 0.801240801811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 453 9 2009 =======> 0.088931187987
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/sender.js nan 465 11 2013 =======> 0.747066974640
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js isValidStatusCode 35 0 2120 =======> 0.916804015636
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js _isValidUTF8 55 0 2124 =======> 0.984725415707
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 117 31 2151 =======> 0.965520799160
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/validation.js nan 124 33 2164 =======> 0.964367449284
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 10 29 2617
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000547585776
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.950034081936
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.008870781399
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002258139430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000257844600
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000407225132
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000074585456
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001769
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001173
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013698
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013706
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000013204
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000136753
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001029175
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001029172
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000032664
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000023255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000043318
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001708632
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004468067
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000042473
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001644066
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004465844
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000041451
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000001921275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004280817
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000028198
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000700936
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002713182
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000032204
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000032270
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000032259
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 17 29 2626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000547391595
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.950063526630
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.008874714375
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002258961555
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000257662992
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000407113344
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000074575139
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001770
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001174
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013706
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013714
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000013211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000136825
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001029718
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001029716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000032682
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000023268
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000043342
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001709385
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004470037
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000042496
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001644787
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004467816
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000041474
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000001922122
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004282711
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000028213
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000701308
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002714476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000032221
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000032288
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000032277
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 24 29 2637
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000577215222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.953203797340
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.009389006533
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002403465798
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000266210234
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000430283602
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000077544093
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001803
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013956
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013963
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000013463
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000139241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001057923
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001057920
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000033277
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000023692
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000044131
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001757562
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004596018
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000043270
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001691144
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004593731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000042229
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000001976296
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004403414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000028727
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000720516
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002792103
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000032808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000032876
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000032864
+Total edge above 0.9 ===>  9
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 32 29 2649
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000717665476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.960603475571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.010924130678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002838170389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000318320177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000532895792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000092108967
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000012949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000132281
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001083601
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001083598
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000031932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000022528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000041964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001818531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004808250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000041145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001743505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004805866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000040251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000002043650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004606752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000027316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000738004
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002909351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000031197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000031261
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000031250
+Total edge above 0.9 ===>  10
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 36 29 2655
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000717665476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.960603475571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.010924130678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002838170389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000318320177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000532895792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000092108967
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000012949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000132281
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001083601
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001083598
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000031932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000022528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000041964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001818531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004808250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000041145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001743505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004805866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000040251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000002043650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004606752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000027316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000738004
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002909351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000031197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000031261
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000031250
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 40 29 2661
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000717665476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.960603475571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.010924130678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002838170389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000318320177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000532895792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000092108967
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000012949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000132281
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001083601
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001083598
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000031932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000022528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000041964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001818531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004808250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000041145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001743505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004805866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000040251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000002043650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004606752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000027316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000738004
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002909351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000031197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000031261
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000031250
+Total edge above 0.9 ===>  12
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 44 29 2667
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000717665476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.960603475571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.010924130678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002838170389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000318320177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000532895792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000092108967
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013414
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000012949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000132281
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001083601
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001083598
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000031932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000022528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000041964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001818531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004808250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000041145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001743505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004805866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000040251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000002043650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004606752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000027316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000738004
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002909351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000031197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000031261
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000031250
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 49 14 2675
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000055681183
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.991960465908
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.707398891449
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.319107562304
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000018203587
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000141937126
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000028281127
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000288514
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000212643
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000003222129
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000003223651
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000003080747
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000048270274
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000640966580
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000640965416
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000008653909
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000006337578
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000011681366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000643412932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.002575075254
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000011390538
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000612608914
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.002574275481
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000011498774
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000891065982
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.002497147070
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000007078224
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000270932651
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.001925657503
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000148065
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000008928926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000008950795
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000008943072
+Total edge above 0.9 ===>  14
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 53 14 2678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000055681237
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.991960465908
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.707399010658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.319107621908
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000018203622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000141937126
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000028281127
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000288514
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000212643
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000003222129
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000003223648
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000003080750
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000048270274
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000640966929
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000640965707
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000008653901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000006337578
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000011681366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000643412350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.002575074090
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000011390527
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000612608623
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.002574275481
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000011498752
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000891065574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.002497145906
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000007078224
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000270932389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.001925656572
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000148065
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000008928926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000008950786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000008943072
+Total edge above 0.9 ===>  15
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 59 29 2682
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000583815447
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.957302689552
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.010064765811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002583179856
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000262998481
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000448593433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000084721396
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001800
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001194
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013922
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013930
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000013440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000137630
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001100516
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001100514
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000033142
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000023439
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000043661
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001826711
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004776842
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000042809
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001757679
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004774464
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000041779
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000002054049
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004576651
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000028421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000749525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002894553
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000032458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000032525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000032514
+Total edge above 0.9 ===>  16
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 64 29 2691
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.000594997487
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.953747510910
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.009495525621
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.002434837166
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000273324753
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.000443332305
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000080347476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000001171
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000013659
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000013666
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000013185
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000135952
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001055632
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001055629
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000032514
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000023136
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000043096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001765542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004616889
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000042255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001693149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004614583
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000041238
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000001984626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004423398
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000028053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000718956
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002802390
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000836
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000032038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000032104
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000032093
+Total edge above 0.9 ===>  17
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 73 29 2702
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.004139523488
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.974002897739
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.015277612954
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.007655942347
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.001995598432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.002437743591
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000298088882
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000001156
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000000759
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000009022
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000009027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000008710
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000000089109
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000001016932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000001016926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000021585
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000015295
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000028354
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000001646972
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000004811021
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000027808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000001579025
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000004808837
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000027156
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000001850858
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000004591554
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000018534
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000000712948
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000002789290
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000000541
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000021017
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000021059
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000021052
+Total edge above 0.9 ===>  18
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 93 16 2731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.008372923359
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.999577581882
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.753794670105
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.296791315079
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.001040980220
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.013641460799
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000586141599
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000017128
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000011287
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000140366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000140439
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000135315
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000001586696
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000018813222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000018813133
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000328391
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000223881
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000482771
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000041108811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000144129794
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000472958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000039161936
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000144031976
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000461336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000050073144
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000137891766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000314218
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000012861982
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000083869658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000008069
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000333365
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000334030
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000333850
+Total edge above 0.9 ===>  19
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 111 16 2750
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.008368941955
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.999577820301
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.754106700420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.297224432230
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.001040221425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.013640651479
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000586061156
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000017138
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000011291
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000140422
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000140495
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000135369
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000001587539
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000018823235
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000018823164
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000328522
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000223971
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000483027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000041146617
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000144262347
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000473210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000039198028
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000144164573
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000461581
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000050118149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000138018833
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000314386
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000012868828
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000083946870
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000008072
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000333543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000334208
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000334028
+Total edge above 0.9 ===>  20
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 137 16 2776
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.008257590234
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.999574482441
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.750018000603
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.291948676109
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.001029143808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.013410585001
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000579303829
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000017238
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000011385
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000141607
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000141680
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000136511
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000001601526
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000018989074
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000018989002
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000331295
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000225860
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000486064
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000041169777
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000144343518
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000476185
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000039220016
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000144245700
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000464483
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000050141956
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000138096366
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000316362
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000012982195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000083994033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000008140
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000335639
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000336309
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000336127
+Total edge above 0.9 ===>  21
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js parse 161 16 2788
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.005273831543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.999568760395
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.739164888859
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.298079311848
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.000676904514
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.010716710240
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.000492493273
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000027081
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000019376
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000240519
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000240645
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000231865
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000002729501
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000032362925
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000032362772
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000569051
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000386995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000000783274
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000065806002
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.000243943054
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000000767210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000062689745
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.000243771472
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000000749747
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000079955840
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.000232618739
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000509710
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000022125541
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000141694662
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000013774
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000543146
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000544233
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000543942
+Total edge above 0.9 ===>  22
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js format 170 25 2795
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.034459266812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.997808158398
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.999401926994
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.999418258667
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.001409572316
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.068016387522
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.008432080969
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000067170
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000031076
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000269027
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000269168
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000261354
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000003533282
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000087504501
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000087503999
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000555727
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000373433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000001638222
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000480232906
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.001959269401
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000001612873
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000455909612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.001955025829
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000001363337
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000413422298
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.001729150070
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000001083508
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000096072727
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000585472968
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000025420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000735695
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000737565
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000737363
+Total edge above 0.9 ===>  23
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js format 176 25 2803
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.052117120475
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.997958779335
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.999375998974
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.999412775040
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.002126914449
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.108904853463
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.013157900423
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000059557
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000027723
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000240143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000240269
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000233294
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000003132328
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000075919314
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000075918804
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000496341
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000333339
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000001432755
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000409273780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.001704553608
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000001410590
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000390548026
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.001701296424
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000001192347
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000354285177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.001509990660
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000947614
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000082633058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000524765113
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000022677
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000645135
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000646776
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000646598
+Total edge above 0.9 ===>  24
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js format 182 25 2811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js push 15 0 1016 =======> 0.045103758574
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js parse 27 0 1025 =======> 0.997739672661
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js format 179 0 1207 =======> 0.999334633350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 181 9 1216 =======> 0.999375045300
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 185 13 1229 =======> 0.001811622060
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 188 38 1237 =======> 0.086335361004
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/lib/extension.js nan 192 23 1248 =======> 0.010853724554
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 7 22 2609 =======> 0.000000053763
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 8 20 2611 =======> 0.000000025987
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 9 36 2614 =======> 0.000000225340
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 16 24 2624 =======> 0.000000225458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 23 37 2635 =======> 0.000000218913
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 31 31 2647 =======> 0.000002886567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 49 8 2674 =======> 0.000065952256
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 53 8 2677 =======> 0.000065951943
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 58 72 2680 =======> 0.000000465745
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 70 44 2698 =======> 0.000000312791
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 80 45 2714 =======> 0.000001316262
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 91 16 2727 =======> 0.000359890138
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 93 10 2730 =======> 0.001398261287
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 101 56 2738 =======> 0.000001295899
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 109 16 2747 =======> 0.000343422929
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 111 10 2749 =======> 0.001395514933
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 119 65 2756 =======> 0.000001095400
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 135 16 2773 =======> 0.000311534328
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 137 10 2775 =======> 0.001246398780
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 145 63 2782 =======> 0.000000870567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 159 16 2785 =======> 0.000072262199
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 161 10 2787 =======> 0.000440879987
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 168 21 2790 =======> 0.000000021256
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 169 37 2792 =======> 0.000000583364
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 175 25 2801 =======> 0.000000584849
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/ws/test/extension.test.js nan 181 38 2809 =======> 0.000000584689
+Total edge above 0.9 ===>  25
+
+
+RANK 1 number of edge 26 ===>  0.7878787878787878
+
+

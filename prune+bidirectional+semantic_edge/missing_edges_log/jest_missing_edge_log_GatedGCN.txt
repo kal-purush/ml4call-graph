@@ -1,0 +1,722 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-clear-mocks/with-auto-clear/__tests__/index.js importedFn 15 2 237
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-clear-mocks/with-auto-clear/__tests__/index.js nan 12 24 233 =======> 0.296053916216
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-clear-mocks/with-auto-clear/__tests__/index.js nan 14 19 236 =======> 0.243335619569
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-clear-mocks/with-auto-clear/__tests__/index.js nan 22 20 249 =======> 0.295939266682
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-clear-mocks/with-auto-clear/index.js nan 8 17 261 =======> 0.001607624232
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js test 39 11 529
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 13 40 483 =======> 0.000181871525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 14 52 489 =======> 0.099823899567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 16 21 492 =======> 0.000365310931
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 21 22 502 =======> 0.000365310931
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 27 37 509 =======> 0.000127773194
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 28 13 512 =======> 0.007216867059
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 32 21 516 =======> 0.003966088407
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 33 54 519 =======> 0.127664566040
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/__tests__/index.js nan 38 22 526 =======> 0.000123635793
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/auto-restore-mocks/without-auto-restore/index.js nan 9 6 542 =======> 0.026776103303
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__tests__/importJest.test.js b 41 9 639
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__test_modules__/a.js nan 8 15 569 =======> 0.001547789667
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__test_modules__/b.js nan 8 15 572 =======> 0.000002146704
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__test_modules__/c.js nan 8 15 575 =======> 0.001598772942
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__test_modules__/d.js nan 8 15 578 =======> 0.033319912851
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__tests__/importJest.test.js nan 28 24 619 =======> 0.019055057317
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__tests__/importJest.test.js nan 34 21 623 =======> 0.000099458310
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__tests__/importJest.test.js nan 39 29 634 =======> 0.000094516770
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__tests__/importJest.test.js nan 44 25 641 =======> 0.000095271724
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/babel-plugin-jest-hoist/__tests__/importJest.test.js nan 49 35 648 =======> 0.000113536691
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/coverage-provider-v8/cjs-native-without-sourcemap/module.js uncovered 19 2 1332
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/coverage-provider-v8/cjs-native-without-sourcemap/module.js covered 10 0 1323 =======> 0.552245080471
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/coverage-provider-v8/cjs-native-without-sourcemap/module.js uncovered 14 0 1328 =======> 0.833494126797
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/coverage-provider-v8/esm-native-without-sourcemap/module.js uncovered 19 2 1386
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/coverage-provider-v8/esm-native-without-sourcemap/module.js covered 10 0 1377 =======> 0.376717418432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/coverage-provider-v8/esm-native-without-sourcemap/module.js uncovered 14 0 1382 =======> 0.749059975147
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/native-async-mock/Native.js awaitable 17 8 7271
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/native-async-mock/Native.js awaitable 10 0 7258 =======> 0.000183009906
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/native-async-mock/Native.js nan 14 28 7267 =======> 0.000002674978
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/native-async-mock/Native.js nan 16 29 7269 =======> 0.010218324140
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js testRequire 53 9 8805
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js testRequire 13 0 8740 =======> 0.605254411697
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 14 9 8744 =======> 0.003363240045
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 17 57 8748 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 22 53 8760 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 27 46 8767 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 32 48 8774 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 37 46 8781 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 42 65 8788 =======> 0.000005689420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 47 42 8795 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 52 64 8802 =======> 0.000005639085
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 57 35 8809 =======> 0.000005639096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 62 37 8816 =======> 0.000005639096
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 67 46 8823 =======> 0.000001340491
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 73 53 8829 =======> 0.000005365543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 88 53 8850 =======> 0.000003639236
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 104 96 8869 =======> 0.000008022232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 105 9 8872 =======> 0.015753744170
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 120 74 8883 =======> 0.000008010397
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 121 9 8886 =======> 0.015753308311
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js testRequire 58 9 8812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js testRequire 13 0 8740 =======> 0.605254590511
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 14 9 8744 =======> 0.003363240045
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 17 57 8748 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 22 53 8760 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 27 46 8767 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 32 48 8774 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 37 46 8781 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 42 65 8788 =======> 0.000005689420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 47 42 8795 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 52 64 8802 =======> 0.000005639080
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 57 35 8809 =======> 0.000005639091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 62 37 8816 =======> 0.000005639091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 67 46 8823 =======> 0.000001340491
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 73 53 8829 =======> 0.000005365543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 88 53 8850 =======> 0.000003639236
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 104 96 8869 =======> 0.000008022232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 105 9 8872 =======> 0.015753736719
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 120 74 8883 =======> 0.000008010389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 121 9 8886 =======> 0.015753323212
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js testRequire 63 9 8819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js testRequire 13 0 8740 =======> 0.605254590511
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 14 9 8744 =======> 0.003363240045
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 17 57 8748 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 22 53 8760 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 27 46 8767 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 32 48 8774 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 37 46 8781 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 42 65 8788 =======> 0.000005689420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 47 42 8795 =======> 0.000005689430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 52 64 8802 =======> 0.000005639080
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 57 35 8809 =======> 0.000005639091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 62 37 8816 =======> 0.000005639091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 67 46 8823 =======> 0.000001340491
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 73 53 8829 =======> 0.000005365543
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 88 53 8850 =======> 0.000003639236
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 104 96 8869 =======> 0.000008022232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 105 9 8872 =======> 0.015753736719
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 120 74 8883 =======> 0.000008010389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/resolve/__tests__/resolve.test.js nan 121 9 8886 =======> 0.015753323212
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js sleep 14 10 9571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 10 14 9555 =======> 0.349445760250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 10 32 9559 =======> 0.152729228139
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 12 14 9565 =======> 0.000001116337
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 13 21 9569 =======> 0.000010407050
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 19 21 9579 =======> 0.000010114536
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 25 21 9587 =======> 0.000000817421
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 30 10 9593 =======> 0.000000261623
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 36 19 9599 =======> 0.000010484702
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 42 8 9607 =======> 0.000000746028
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/e2e/snapshot-concurrent/__tests__/works.test.js nan 47 19 9613 =======> 0.000001380883
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js getUserName 18 9 11985
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 10 26 11969 =======> 0.000002183092
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 16 26 11981 =======> 0.000002675919
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 18 34 11987 =======> 0.000317707425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 22 29 11992 =======> 0.000000518184
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 29 42 12000 =======> 0.000001421631
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 35 31 12007 =======> 0.000002849441
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 43 34 12019 =======> 0.000064157633
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 45 35 12025 =======> 0.001561874058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 53 35 12031 =======> 0.000002744591
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 65 47 12041 =======> 0.000001703874
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/user.js getUserName 5 7 12082 =======> 0.923819005489
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/user.js nan 6 42 12092 =======> 0.000475370995
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js getUserName 37 16 12012
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 10 26 11969 =======> 0.000003154434
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 16 26 11981 =======> 0.000004134417
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 18 34 11987 =======> 0.000381214864
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 22 29 11992 =======> 0.000000806912
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 29 42 12000 =======> 0.000002213754
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 35 31 12007 =======> 0.000004075555
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 43 34 12019 =======> 0.000099430341
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 45 35 12025 =======> 0.001262432779
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 53 35 12031 =======> 0.000004292402
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/__tests__/user.test.js nan 65 47 12041 =======> 0.000002670459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/user.js getUserName 5 7 12082 =======> 0.863094508648
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/async/user.js nan 6 42 12092 =======> 0.000341685867
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/getting-started/sum.test.js sum 6 9 12214
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/getting-started/sum.js sum 3 0 12196 =======> 0.000000721444
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/getting-started/sum.test.js nan 5 30 12210 =======> 0.000684082392
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/manual-mocks/__tests__/utils.test.js isLocalhost 10 9 12555
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/manual-mocks/__tests__/utils.test.js nan 3 10 12540 =======> 0.000644965970
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/manual-mocks/__tests__/utils.test.js nan 7 54 12546 =======> 0.000062377156
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/manual-mocks/__tests__/utils.test.js nan 13 58 12558 =======> 0.000062993640
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/examples/manual-mocks/utils.js isLocalhost 1 7 12586 =======> 0.008676420897
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js testChange 157 2 13120
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 26 21 12914 =======> 0.172993689775
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 28 6 12922 =======> 0.030728882179
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 32 11 12926 =======> 0.010009553283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 35 11 12931 =======> 0.010009553283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 45 21 12941 =======> 0.322169840336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 47 6 12945 =======> 0.138200864196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 52 23 12955 =======> 0.028657691553
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 57 31 12960 =======> 0.035970009863
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 62 11 12963 =======> 0.011323401704
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 65 11 12965 =======> 0.011323401704
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 75 22 12972 =======> 0.001573841786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 80 22 12979 =======> 0.014131564647
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 86 17 12989 =======> 0.629417181015
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 100 25 13024 =======> 0.937442243099
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 113 19 13044 =======> 0.961369335651
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 119 17 13054 =======> 0.865290462971
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 135 16 13074 =======> 0.179560095072
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 140 19 13091 =======> 0.235916718841
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 141 26 13095 =======> 0.889645576477
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 149 18 13106 =======> 0.860247969627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 155 16 13112 =======> 0.465409517288
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 161 16 13124 =======> 0.465409666300
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 166 16 13134 =======> 0.884494900703
+Total edge above 0.9 ===>  9
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js testLength 177 0 13145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 26 21 12914 =======> 0.204502791166
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 28 6 12922 =======> 0.002323318273
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 32 11 12926 =======> 0.023067805916
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 35 11 12931 =======> 0.023067805916
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 45 21 12941 =======> 0.020716248080
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 47 6 12945 =======> 0.002885843860
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 52 23 12955 =======> 0.000277698215
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 57 31 12960 =======> 0.109990917146
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 62 11 12963 =======> 0.022265674546
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 65 11 12965 =======> 0.022265674546
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 75 22 12972 =======> 0.847777068615
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 80 22 12979 =======> 0.919438362122
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 86 17 12989 =======> 0.015703715384
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 100 25 13024 =======> 0.002358056139
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 113 19 13044 =======> 0.033688385040
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 119 17 13054 =======> 0.023438146338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 135 16 13074 =======> 0.001714324113
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 140 19 13091 =======> 0.548653483391
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 141 26 13095 =======> 0.000787108089
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 149 18 13106 =======> 0.000879076659
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 155 16 13112 =======> 0.000846418901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 161 16 13124 =======> 0.000846418901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/diff-sequences/__benchmarks__/test.js nan 166 16 13134 =======> 0.000757342030
+Total edge above 0.9 ===>  10
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/testSchedulerHelper.test.js getTestsMock 38 4 14326
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/testSchedulerHelper.test.js nan 11 20 14119 =======> 0.982875883579
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/testSchedulerHelper.test.js nan 17 26 14132 =======> 0.204388216138
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/testSchedulerHelper.test.js nan 23 21 14137 =======> 0.985027790070
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/testSchedulerHelper.test.js nan 48 2 14344 =======> 0.011978794821
+Total edge above 0.9 ===>  10
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js emit 111 4 14740
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 17 2 14614 =======> 0.490483850241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 19 23 14619 =======> 0.048538323492
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 25 21 14627 =======> 0.016260053962
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 28 41 14637 =======> 0.143833801150
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 32 2 14640 =======> 0.972982525826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 33 4 14641 =======> 0.095536030829
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 93 29 14710 =======> 0.000409153436
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 99 13 14721 =======> 0.051287528127
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 101 30 14728 =======> 0.051451079547
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 106 41 14737 =======> 0.077131703496
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 114 26 14748 =======> 0.471854567528
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 145 13 14788 =======> 0.534501075745
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 149 12 14793 =======> 0.000009563058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 151 8 14796 =======> 0.000011799758
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 153 13 14799 =======> 0.000062357292
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 155 4 14801 =======> 0.002701371443
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 159 6 14807 =======> 0.905651986599
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js assertPattern 122 6 14761
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 17 2 14614 =======> 0.033016085625
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 19 23 14619 =======> 0.000919365732
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 25 21 14627 =======> 0.002672589151
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 28 41 14637 =======> 0.004129942041
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 32 2 14640 =======> 0.501740813255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 33 4 14641 =======> 0.006857478060
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 93 29 14710 =======> 0.000109575121
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 99 13 14721 =======> 0.004444685765
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 101 30 14728 =======> 0.070443443954
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 106 41 14737 =======> 0.009963461198
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 114 26 14748 =======> 0.303901344538
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 145 13 14788 =======> 0.012032487430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 149 12 14793 =======> 0.000001593778
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 151 8 14796 =======> 0.000001658866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 153 13 14799 =======> 0.000007525944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 155 4 14801 =======> 0.000098704448
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 159 6 14807 =======> 0.092669799924
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js assertPattern 125 6 14766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 17 2 14614 =======> 0.032269481570
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 19 23 14619 =======> 0.000699495140
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 25 21 14627 =======> 0.002891755197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 28 41 14637 =======> 0.003284679260
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 32 2 14640 =======> 0.446845144033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 33 4 14641 =======> 0.004803224932
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 93 29 14710 =======> 0.000119552285
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 99 13 14721 =======> 0.004267113749
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 101 30 14728 =======> 0.084591306746
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 106 41 14737 =======> 0.010330770165
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 114 26 14748 =======> 0.315323412418
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 145 13 14788 =======> 0.009358662181
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 149 12 14793 =======> 0.000001479593
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 151 8 14796 =======> 0.000001519541
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 153 13 14799 =======> 0.000006893867
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 155 4 14801 =======> 0.000084994339
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-core/src/__tests__/watchTestNamePatternMode.test.js nan 159 6 14807 =======> 0.072700329125
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js normalize 120 39 15148
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 11 27 15000 =======> 0.000027533144
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 12 17 15005 =======> 0.184926852584
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 15 39 15016 =======> 0.249943718314
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 21 41 15026 =======> 0.157893344760
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 23 23 15030 =======> 0.639486134052
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 37 25 15038 =======> 0.000414681417
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 41 15 15049 =======> 0.063853718340
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 43 6 15052 =======> 0.192738652229
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 45 21 15056 =======> 0.086980499327
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 48 24 15062 =======> 0.086980499327
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 52 19 15068 =======> 0.183851569891
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 63 21 15077 =======> 0.725738167763
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 76 10 15090 =======> 0.279972761869
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 79 29 15094 =======> 0.008344497532
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 80 32 15095 =======> 0.008344486356
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 84 29 15098 =======> 0.008344502188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 85 32 15099 =======> 0.008344502188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 89 29 15101 =======> 0.008344502188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 90 32 15102 =======> 0.008344502188
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 98 10 15106 =======> 0.282687544823
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 101 29 15110 =======> 0.009223538451
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 102 32 15111 =======> 0.009223538451
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 109 19 15115 =======> 0.345360368490
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 116 20 15123 =======> 0.002701292979
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 117 18 15128 =======> 0.292795330286
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 119 18 15136 =======> 0.000026180953
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 120 31 15145 =======> 0.133176505566
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 128 25 15159 =======> 0.000000010767
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 129 13 15162 =======> 0.000021867652
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 141 43 15170 =======> 0.000000076253
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 189 35 15212 =======> 0.000000096106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 220 30 15244 =======> 0.000000090902
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 252 56 15272 =======> 0.000000122328
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 283 46 15302 =======> 0.000000042291
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 285 46 15306 =======> 0.000009311852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 309 93 15329 =======> 0.000000139688
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 333 35 15356 =======> 0.000000057565
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 350 52 15375 =======> 0.000000057565
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/node.test.js nan 367 58 15394 =======> 0.000000253276
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js forcePOSIXPaths 59 11 15533
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 13 25 15430 =======> 0.000667857821
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 16 45 15442 =======> 0.000878932246
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 17 17 15447 =======> 0.000829229190
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 24 37 15455 =======> 0.001062283525
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 25 17 15457 =======> 0.001413331251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 36 24 15478 =======> 0.982351839542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 37 20 15483 =======> 0.000574287318
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 67 18 15538 =======> 0.021252399310
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 67 54 15547 =======> 0.013078561984
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 69 27 15552 =======> 0.000002040038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 70 13 15555 =======> 0.000227995915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 87 35 15573 =======> 0.013127521612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 93 35 15578 =======> 0.013127521612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 99 35 15581 =======> 0.013127521612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 105 35 15584 =======> 0.013127521612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 124 12 15593 =======> 0.000011952131
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 128 63 15598 =======> 0.000000564029
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 184 68 15673 =======> 0.000001454003
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 197 35 15683 =======> 0.013149599545
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 260 77 15719 =======> 0.000001191777
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 275 35 15731 =======> 0.013124580495
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 281 35 15734 =======> 0.013124580495
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 288 35 15737 =======> 0.013424351811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 355 70 15789 =======> 0.000001082017
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 368 35 15799 =======> 0.013145199977
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 381 35 15804 =======> 0.013145199977
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 440 71 15839 =======> 0.000000572470
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 521 40 15909 =======> 0.000002735247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 561 44 15938 =======> 0.000002278306
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 601 31 15965 =======> 0.000001470211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 620 35 15979 =======> 0.013137100264
+Total edge above 0.9 ===>  11
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js createMap 660 6 15997
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 13 25 15430 =======> 0.000185695055
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 16 45 15442 =======> 0.000044263968
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 17 17 15447 =======> 0.000019465999
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 24 37 15455 =======> 0.000045048033
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 25 17 15457 =======> 0.000030316081
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 36 24 15478 =======> 0.006780625321
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 37 20 15483 =======> 0.000146061037
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 67 18 15538 =======> 0.976693809032
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 67 54 15547 =======> 0.000048402107
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 69 27 15552 =======> 0.000003271438
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 70 13 15555 =======> 0.000699148572
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 87 35 15573 =======> 0.000076815035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 93 35 15578 =======> 0.000076815035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 99 35 15581 =======> 0.000076815035
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 105 35 15584 =======> 0.000076815108
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 124 12 15593 =======> 0.000011277210
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 128 63 15598 =======> 0.000036701542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 184 68 15673 =======> 0.000117035350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 197 35 15683 =======> 0.000076923228
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 260 77 15719 =======> 0.000061498169
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 275 35 15731 =======> 0.000076853277
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 281 35 15734 =======> 0.000076853350
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 288 35 15737 =======> 0.000105477433
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 355 70 15789 =======> 0.000059052352
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 368 35 15799 =======> 0.000077012264
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 381 35 15804 =======> 0.000077012264
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 440 71 15839 =======> 0.000055782377
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 521 40 15909 =======> 0.000082346487
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 561 44 15938 =======> 0.000078487945
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 601 31 15965 =======> 0.000116987714
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/crawlers/__tests__/watchman.test.js nan 620 35 15979 =======> 0.000076900200
+Total edge above 0.9 ===>  12
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js recReaddir 46 4 16452
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 32 13 16426 =======> 0.989241540432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 73 10 16458 =======> 0.987026631832
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 99 12 16485 =======> 0.959956526756
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 114 15 16494 =======> 0.983656883240
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 128 12 16500 =======> 0.904903531075
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 143 18 16507 =======> 0.927625477314
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 156 10 16515 =======> 0.987468600273
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 182 14 16532 =======> 0.968526542187
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 195 7 16538 =======> 0.243768379092
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 213 19 16552 =======> 0.978424310684
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 222 48 16569 =======> 0.171917453408
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 223 37 16577 =======> 0.943044364452
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 257 17 16592 =======> 0.945720076561
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 261 41 16599 =======> 0.986240804195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 278 15 16604 =======> 0.935490012169
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 282 23 16612 =======> 0.899012923241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 327 11 16640 =======> 0.957384765148
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 336 40 16659 =======> 0.931597828865
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddDir 342 10 16666 =======> 0.992927968502
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddFile 346 10 16674 =======> 0.992366015911
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js endCallback 350 10 16679 =======> 0.728757143021
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 363 14 16683 =======> 0.979823052883
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js isIgnorableFileError 373 0 16686 =======> 0.920993745327
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.825376272202
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.918921291828
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.843541443348
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.519142568111
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.989462673664
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.725137531757
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.991012334824
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.928871631622
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js registered 301 27 16627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 32 13 16426 =======> 0.829331755638
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 73 10 16458 =======> 0.845259010792
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 99 12 16485 =======> 0.702202439308
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 114 15 16494 =======> 0.804503381252
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 128 12 16500 =======> 0.816344559193
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 143 18 16507 =======> 0.078030347824
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 156 10 16515 =======> 0.921372592449
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 182 14 16532 =======> 0.931461095810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 195 7 16538 =======> 0.165972888470
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 213 19 16552 =======> 0.913572192192
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 222 48 16569 =======> 0.127832576632
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 223 37 16577 =======> 0.843545615673
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 257 17 16592 =======> 0.112327024341
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 261 41 16599 =======> 0.198977485299
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 278 15 16604 =======> 0.704143404961
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 282 23 16612 =======> 0.802329778671
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 327 11 16640 =======> 0.912759661674
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 336 40 16659 =======> 0.834783613682
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddDir 342 10 16666 =======> 0.664975762367
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddFile 346 10 16674 =======> 0.496624648571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js endCallback 350 10 16679 =======> 0.004058431834
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 363 14 16683 =======> 0.879158616066
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js isIgnorableFileError 373 0 16686 =======> 0.638056099415
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.008876731619
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.018307814375
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.016086120158
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.109977990389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.621639251709
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.751579582691
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.802713155746
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.931726634502
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js register 312 14 16637
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 32 13 16426 =======> 0.938656270504
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 73 10 16458 =======> 0.826728701591
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 99 12 16485 =======> 0.842650711536
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 114 15 16494 =======> 0.931775808334
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 128 12 16500 =======> 0.833516597748
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 143 18 16507 =======> 0.293768972158
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 156 10 16515 =======> 0.960137248039
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 182 14 16532 =======> 0.970287144184
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 195 7 16538 =======> 0.398389577866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 213 19 16552 =======> 0.943026125431
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 222 48 16569 =======> 0.303186148405
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 223 37 16577 =======> 0.743417263031
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 257 17 16592 =======> 0.274293065071
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 261 41 16599 =======> 0.198607236147
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 278 15 16604 =======> 0.852504432201
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 282 23 16612 =======> 0.817174613476
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 327 11 16640 =======> 0.961242675781
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 336 40 16659 =======> 0.920918285847
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddDir 342 10 16666 =======> 0.644442617893
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddFile 346 10 16674 =======> 0.431980252266
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js endCallback 350 10 16679 =======> 0.005924668163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 363 14 16683 =======> 0.920788228512
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js isIgnorableFileError 373 0 16686 =======> 0.236452013254
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.008374669589
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.057161729783
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.007380364463
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.016360182315
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.397616833448
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.491697549820
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.594471216202
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.809462964535
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js recReaddir 340 8 16663
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 32 13 16426 =======> 0.985789120197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 73 10 16458 =======> 0.996566653252
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 99 12 16485 =======> 0.981854557991
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 114 15 16494 =======> 0.986444175243
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 128 12 16500 =======> 0.941481828690
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 143 18 16507 =======> 0.991675734520
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 156 10 16515 =======> 0.989349901676
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 182 14 16532 =======> 0.929295778275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 195 7 16538 =======> 0.141546323895
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 213 19 16552 =======> 0.987371683121
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 222 48 16569 =======> 0.079423256218
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 223 37 16577 =======> 0.955236375332
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 257 17 16592 =======> 0.995064675808
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 261 41 16599 =======> 0.998558819294
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 278 15 16604 =======> 0.916441738605
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 282 23 16612 =======> 0.851838886738
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 327 11 16640 =======> 0.907150328159
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 336 40 16659 =======> 0.829451501369
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddDir 342 10 16666 =======> 0.997697532177
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js emitAddFile 346 10 16674 =======> 0.997874736786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js endCallback 350 10 16679 =======> 0.994469642639
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js nan 363 14 16683 =======> 0.986204922199
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/NodeWatcher.js isIgnorableFileError 373 0 16686 =======> 0.988783419132
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.997856795788
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.995784223080
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.998422741890
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.929255545139
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.996755063534
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.799532771111
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.998636543751
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.912253022194
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js isFileIncluded 228 5 16948
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 6 13 16694 =======> 0.790467441082
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 11 19 16699 =======> 0.952769994736
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 22 29 16714 =======> 0.949329435825
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js WatchmanWatcher 31 15 16777 =======> 0.993527352810
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 45 33 16792 =======> 0.990621805191
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 52 26 16803 =======> 0.926615834236
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 56 24 16812 =======> 0.307884484529
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js getWatchRoot 63 2 16818 =======> 0.997029125690
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onCapability 67 2 16822 =======> 0.344912320375
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onWatchProject 84 2 16843 =======> 0.850498795509
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onWatch 99 2 16857 =======> 0.661475777626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onClock 109 2 16865 =======> 0.742222845554
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onSubscribe 164 2 16902 =======> 0.291420131922
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 189 46 16913 =======> 0.834215998650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 209 45 16932 =======> 0.973604917526
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 234 22 16956 =======> 0.975247025490
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 267 38 16975 =======> 0.908379912376
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 282 34 16980 =======> 0.399928838015
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js handleError 296 0 16987 =======> 0.982359230518
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js handleWarning 312 0 16992 =======> 0.990338981152
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.917990863323
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.969407975674
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.885947763920
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.281587719917
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.959247171879
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.377625375986
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.973833441734
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.759130895138
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js emitEvent 253 4 16974
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 6 13 16694 =======> 0.817390859127
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 11 19 16699 =======> 0.943275034428
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 22 29 16714 =======> 0.903179764748
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js WatchmanWatcher 31 15 16777 =======> 0.977651298046
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 45 33 16792 =======> 0.972944855690
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 52 26 16803 =======> 0.941320300102
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 56 24 16812 =======> 0.529740691185
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js getWatchRoot 63 2 16818 =======> 0.995465576649
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onCapability 67 2 16822 =======> 0.100773900747
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onWatchProject 84 2 16843 =======> 0.620235919952
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onWatch 99 2 16857 =======> 0.371037125587
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onClock 109 2 16865 =======> 0.447856485844
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onSubscribe 164 2 16902 =======> 0.078589908779
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 189 46 16913 =======> 0.442541569471
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 209 45 16932 =======> 0.862056493759
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 234 22 16956 =======> 0.975062251091
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 267 38 16975 =======> 0.633934140205
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 282 34 16980 =======> 0.123498402536
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js handleError 296 0 16987 =======> 0.940460979939
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js handleWarning 312 0 16992 =======> 0.954757690430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.748943030834
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.933129847050
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.661375164986
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.053891688585
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.892946779728
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.333435505629
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.893629074097
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.633494675159
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js isRecrawlWarningDupe 314 8 16995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 6 13 16694 =======> 0.655723035336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 11 19 16699 =======> 0.636375188828
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/RecrawlWarning.js nan 22 29 16714 =======> 0.447814792395
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js WatchmanWatcher 31 15 16777 =======> 0.513731598854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 45 33 16792 =======> 0.616596937180
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 52 26 16803 =======> 0.993364810944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 56 24 16812 =======> 0.981599509716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js getWatchRoot 63 2 16818 =======> 0.962914943695
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onCapability 67 2 16822 =======> 0.002429717686
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onWatchProject 84 2 16843 =======> 0.056961040944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onWatch 99 2 16857 =======> 0.016530821100
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onClock 109 2 16865 =======> 0.024211851880
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js onSubscribe 164 2 16902 =======> 0.002012963174
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 189 46 16913 =======> 0.020270213485
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 209 45 16932 =======> 0.144405424595
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 234 22 16956 =======> 0.945049285889
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 267 38 16975 =======> 0.048931952566
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js nan 282 34 16980 =======> 0.005769520067
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js handleError 296 0 16987 =======> 0.423620939255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/WatchmanWatcher.js handleWarning 312 0 16992 =======> 0.356060117483
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 30 24 17027 =======> 0.113352522254
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 41 61 17051 =======> 0.383766293526
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 59 25 17057 =======> 0.049544759095
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 79 21 17069 =======> 0.001253483002
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 88 15 17082 =======> 0.284460157156
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 92 15 17090 =======> 0.406376421452
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js normalizeProxy 110 0 17095 =======> 0.199193373322
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-haste-map/src/watchers/common.js nan 111 9 17098 =======> 0.723741233349
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js wrap 115 6 17336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 10 13 17247 =======> 0.990881204605
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 14 11 17258 =======> 0.000073591415
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 19 31 17266 =======> 0.000001050469
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 20 36 17269 =======> 0.000004301819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 24 29 17279 =======> 0.000004535145
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 52 38 17299 =======> 0.000004585848
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 98 33 17325 =======> 0.000004442506
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 138 46 17348 =======> 0.000004580926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 208 31 17386 =======> 0.000004534942
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 242 36 17406 =======> 0.000004534890
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 288 40 17432 =======> 0.000004535102
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 335 40 17458 =======> 0.000004535098
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 382 42 17484 =======> 0.000004585625
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/packages/jest-reporters/src/__tests__/VerboseReporter.test.js nan 440 62 17516 =======> 0.000004597382
+Total edge above 0.9 ===>  13
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js forceRun 205 2 21536
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js setupLandingAnimation 10 7 21325 =======> 0.956247746944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js cardTransform 20 2 21346 =======> 0.817782402039
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js positionCards 27 2 21362 =======> 0.661639571190
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js resolveRun 38 2 21383 =======> 0.798339962959
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 39 15 21389 =======> 0.199675664306
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 63 6 21412 =======> 0.023001521826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 66 19 21416 =======> 0.003282101592
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js forceRun 77 2 21421 =======> 0.705037236214
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js runTest 90 2 21437 =======> 0.575792193413
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js handleHandClick 104 2 21453 =======> 0.043542832136
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js setUpMatcherButtons 119 2 21469 =======> 0.948326051235
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 156 27 21495 =======> 0.032851383090
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 164 28 21505 =======> 0.248986616731
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js makeScreenshotsClickable 186 2 21518 =======> 0.212379992008
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 189 20 21525 =======> 0.246297523379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js handleResize 196 2 21529 =======> 0.007057911251
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 198 33 21534 =======> 0.172842234373
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 213 9 21545 =======> 0.085972175002
+Total edge above 0.9 ===>  14
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js setUpMatcherButtons 207 2 21538
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js setupLandingAnimation 10 7 21325 =======> 0.965759813786
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js cardTransform 20 2 21346 =======> 0.742136240005
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js positionCards 27 2 21362 =======> 0.802236795425
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js resolveRun 38 2 21383 =======> 0.950820386410
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 39 15 21389 =======> 0.667031466961
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 63 6 21412 =======> 0.008408614434
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 66 19 21416 =======> 0.001222756691
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js forceRun 77 2 21421 =======> 0.577132880688
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js runTest 90 2 21437 =======> 0.881174325943
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js handleHandClick 104 2 21453 =======> 0.091185159981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js setUpMatcherButtons 119 2 21469 =======> 0.861703336239
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 156 27 21495 =======> 0.021296661347
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 164 28 21505 =======> 0.056006364524
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js makeScreenshotsClickable 186 2 21518 =======> 0.650564491749
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 189 20 21525 =======> 0.287068545818
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js handleResize 196 2 21529 =======> 0.018390767276
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 198 33 21534 =======> 0.245783537626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/jest/website/src/pages/animations/_landingAnimation.js nan 213 9 21545 =======> 0.108784765005
+Total edge above 0.9 ===>  14
+
+
+RANK 1 number of edge 14 ===>  0.7777777777777778
+
+

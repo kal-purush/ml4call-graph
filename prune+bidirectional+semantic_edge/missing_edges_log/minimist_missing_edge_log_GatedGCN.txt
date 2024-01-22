@@ -1,0 +1,453 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 128 37 187
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.685223877430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.071154899895
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.744988381863
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.896784663200
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.979175150394
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.140886649489
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.870174825191
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.295588016510
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.086085990071
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.068184651434
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.369574695826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.093534357846
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.097354546189
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.889676988125
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.847946703434
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.926040887833
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.222358271480
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.013082994148
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.016089847311
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.050155550241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.243072301149
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.186946570873
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 165 7 232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.345428764820
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.018124831840
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.407289355993
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.762813925743
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.973306655884
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.032566901296
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.730679214001
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.134333610535
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.024043060839
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.022335534915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.145069465041
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.023380497470
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.021726213396
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.629324257374
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.564904034138
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.852653205395
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.065072059631
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.003763553919
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.004699054640
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.013438037597
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.075771741569
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.059298112988
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js parse 80 13 464
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.017506038770
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.024297391996
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.033252798021
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.123495578766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.997721850872
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.016086088493
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.067476898432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.157496035099
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.100954204798
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.119963228703
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.075876481831
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.025455463678
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.023041389883
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.040374822915
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.026430279016
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.463578194380
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.131896778941
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.051876440644
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.064725816250
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.015266976319
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.159420207143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.163543015718
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 6 50 386 =======> 0.000503776711
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 17 54 402 =======> 0.000495152082
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 28 41 415 =======> 0.000506189943
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 39 45 425 =======> 0.000497704023
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 50 41 437 =======> 0.000506774813
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 62 47 447 =======> 0.000501779898
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 74 43 457 =======> 0.000877788174
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/array.js nan 97 49 479 =======> 0.000880948617
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js parse 7 12 512
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.026308890432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.040370002389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.049961395562
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.189055189490
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.998750090599
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.024008730426
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.103441856802
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.236240521073
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.156686544418
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.184041306376
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.119606412947
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.040974717587
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.034286927432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.059383496642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.039738323539
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.603078961372
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.202035278082
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.169276982546
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.204325720668
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.026482487097
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.239648133516
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.244433701038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 6 35 508 =======> 0.001840420766
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 24 23 532 =======> 0.001650472754
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 42 44 552 =======> 0.026291947812
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 61 50 581 =======> 0.026795843616
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 84 46 609 =======> 0.025900021195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 105 29 628 =======> 0.010951031931
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 122 29 645 =======> 0.004420237150
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 134 30 655 =======> 0.004420251586
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 146 48 665 =======> 0.011298110709
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 158 49 678 =======> 0.003052055836
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 173 40 693 =======> 0.004427818581
+Total edge above 0.9 ===>  1
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js parse 49 19 567
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.006604130846
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.007061220706
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.011113577522
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.042291995138
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.990899443626
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.005058649462
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.022783480585
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.049257114530
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.026123778895
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.033337179571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.024096272886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.007582549937
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.007060899399
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.014848484658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.009580754675
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.158651679754
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.034427084029
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.011005414650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.014320859686
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.004265398253
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.042351331562
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.043875120580
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 6 35 508 =======> 0.000013245782
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 24 23 532 =======> 0.000011310501
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 42 44 552 =======> 0.000396665389
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 61 50 581 =======> 0.000534864375
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 84 46 609 =======> 0.000399530632
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 105 29 628 =======> 0.000081044498
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 122 29 645 =======> 0.000041863728
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 134 30 655 =======> 0.000041863685
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 146 48 665 =======> 0.000124051832
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 158 49 678 =======> 0.000027263319
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/bool.js nan 173 40 693 =======> 0.000041908184
+Total edge above 0.9 ===>  2
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/dotted.js parse 21 12 888
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.091052085161
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.115287065506
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.171409890056
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.503749907017
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.999055683613
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.086444653571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.334390550852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.569730877876
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.412556618452
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.490163266659
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.371683359146
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.121001303196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.125145137310
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.217355325818
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.142370581627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.839886307716
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.484845727682
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.179309293628
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.221057116985
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.068632744253
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.540189445019
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.553860306740
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/dotted.js nan 6 21 855 =======> 0.001237659715
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/dotted.js nan 13 23 876 =======> 0.001219577854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/dotted.js nan 20 37 886 =======> 0.001405423158
+Total edge above 0.9 ===>  3
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/long.js parse 28 2 983
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.034275341779
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.004404271953
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.039739795029
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.263300478458
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.952054440975
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.008084704168
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.120596654713
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.038886856288
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.007512258831
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.007674186025
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.034752368927
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.005459735636
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.006669939030
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.156184211373
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.049025908113
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.329876363277
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.016665227711
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.001086835517
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.001355884480
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.003071895335
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.020241716877
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.018039727584
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/long.js nan 6 18 954 =======> 0.000011690170
+Total edge above 0.9 ===>  4
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js parse 48 12 1092
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.021307509392
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.033301513642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.040229823440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.151369899511
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.998479068279
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.019746029750
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.081357441843
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.191368967295
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.124463073909
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.147173956037
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.094157300889
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.033759333193
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.028238384053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.046146210283
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.031931098551
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.537572860718
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.162280395627
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.128457486629
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.157227396965
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.021711157635
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.194294050336
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.198410317302
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 6 19 1050 =======> 0.002587725641
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 20 22 1070 =======> 0.001550054178
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 47 21 1089 =======> 0.002244394505
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 54 27 1103 =======> 0.001853888622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 71 27 1121 =======> 0.010545114987
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 84 16 1136 =======> 0.003794870339
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 95 19 1156 =======> 0.006404771004
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 105 22 1172 =======> 0.004971683491
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 125 25 1200 =======> 0.005263700150
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 159 19 1239 =======> 0.003663807642
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 171 14 1253 =======> 0.004128806293
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 181 19 1266 =======> 0.004807292949
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 192 30 1280 =======> 0.007240375504
+Total edge above 0.9 ===>  5
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js parse 165 2 1247
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.011337428354
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.002501081442
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.012762822211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.100702211261
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.921498656273
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.003713150509
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.039736513048
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.017557609826
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.003785959212
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.004554373212
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.015084532090
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.002886867616
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.003957846202
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.048226185143
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.015704983845
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.134656265378
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.007904232480
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.000557538529
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.000689301058
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.001683228533
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.009375373833
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.008300346322
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 6 19 1050 =======> 0.000002953279
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 20 22 1070 =======> 0.000001640279
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 47 21 1089 =======> 0.000001855169
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 54 27 1103 =======> 0.000001403519
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 71 27 1121 =======> 0.000007885908
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 84 16 1136 =======> 0.000002673264
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 95 19 1156 =======> 0.000004804134
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 105 22 1172 =======> 0.000003238287
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 125 25 1200 =======> 0.000003406094
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 159 19 1239 =======> 0.000003194705
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 171 14 1253 =======> 0.000002905643
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 181 19 1266 =======> 0.000003182286
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 192 30 1280 =======> 0.000005994661
+Total edge above 0.9 ===>  6
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js parse 193 12 1282
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.008281210437
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.004227538593
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.011315215379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.059376452118
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.989571213722
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.004251697101
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.032850921154
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.046956907958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.017808016390
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.025581158698
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.024588173255
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.004514198285
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.005622629542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.020065497607
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.011964401230
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.146869406104
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.025264181197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.004512805957
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.005875835195
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.002393946052
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.031654719263
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.034674026072
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 6 19 1050 =======> 0.000016496051
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 20 22 1070 =======> 0.000008716760
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 47 21 1089 =======> 0.000011951106
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 54 27 1103 =======> 0.000009042866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 71 27 1121 =======> 0.000052153453
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 84 16 1136 =======> 0.000017925988
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 95 19 1156 =======> 0.000032029759
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 105 22 1172 =======> 0.000022117063
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 125 25 1200 =======> 0.000023140006
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 159 19 1239 =======> 0.000018212044
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 171 14 1253 =======> 0.000019244926
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 181 19 1266 =======> 0.000021228187
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/parse.js nan 192 30 1280 =======> 0.000039137445
+Total edge above 0.9 ===>  7
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js parse 8 13 1447
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.017105445266
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.001824616338
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.020441783592
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.126482605934
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.894189953804
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.003465240821
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.065718166530
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.013201771304
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.002772478620
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.002786948113
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.011977818795
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.002090699272
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.002776791807
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.076487809420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.030130056664
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.175990149379
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.005867512897
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.000430772838
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.000535877305
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.001202875748
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.007038752548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.006038122345
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 6 27 1441 =======> 0.000003688203
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 15 14 1459 =======> 0.000003895820
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 49 37 1499 =======> 0.000003803773
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 60 23 1509 =======> 0.000002367792
+Total edge above 0.9 ===>  8
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js parse 17 2 1461
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.027937209234
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.003409980796
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.032425109297
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.210249364376
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.939059913158
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.006391466595
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.099948145449
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.028881799430
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.005660315976
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.005728553981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.025695119053
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.004105378408
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.005185180344
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.123245425522
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.040073323995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.269563347101
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.012304297648
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.000828465039
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.001033619512
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.002308499767
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.014959137887
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.013323987834
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 6 27 1441 =======> 0.000006428901
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 15 14 1459 =======> 0.000006869958
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 49 37 1499 =======> 0.000006630351
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 60 23 1509 =======> 0.000004127294
+Total edge above 0.9 ===>  9
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js parse 37 2 1485
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.028239116073
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.003427637275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.032773897052
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.212082415819
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.939274072647
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.006434324197
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.100947409868
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.029082246125
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.005697951186
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.005759443622
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.025891082361
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.004131326918
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.005211980548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.124457962811
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.040500886738
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.271691679955
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.012391158380
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.000832990569
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.001039264491
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.002323115943
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.015064453706
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.013417943381
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 6 27 1441 =======> 0.000006452420
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 15 14 1459 =======> 0.000006901886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 49 37 1499 =======> 0.000006654619
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/short.js nan 60 23 1509 =======> 0.000004142397
+Total edge above 0.9 ===>  10
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/stop_early.js parse 7 12 1529
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js hasKey 3 0 13 =======> 0.044827878475
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 5 27 24 =======> 0.066215530038
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isNumber 13 0 30 =======> 0.085668787360
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isConstructorOrProto 19 0 42 =======> 0.300302326679
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 23 17 48 =======> 0.998789250851
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 39 50 76 =======> 0.039814095944
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js isBooleanKey 46 1 80 =======> 0.175194352865
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 53 27 90 =======> 0.362830370665
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 58 39 97 =======> 0.254873067141
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 60 23 101 =======> 0.293405473232
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 61 49 105 =======> 0.200069367886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 67 48 113 =======> 0.067492865026
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 70 35 118 =======> 0.056732930243
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js argDefined 80 1 129 =======> 0.103999733925
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setKey 87 1 134 =======> 0.068711154163
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js setArg 123 1 175 =======> 0.717692434788
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 133 31 194 =======> 0.308892756701
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 139 34 199 =======> 0.182440683246
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 143 52 204 =======> 0.223978608847
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 252 31 318 =======> 0.045096557587
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 256 30 327 =======> 0.358114093542
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/index.js nan 265 19 333 =======> 0.370893418789
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/minimist/test/stop_early.js nan 6 68 1525 =======> 0.004763798788
+Total edge above 0.9 ===>  11
+
+
+RANK 1 number of edge 12 ===>  0.5217391304347826
+
+

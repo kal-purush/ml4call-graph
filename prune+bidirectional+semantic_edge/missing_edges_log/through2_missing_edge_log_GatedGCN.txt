@@ -1,0 +1,130 @@
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js nan 26 2 71
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js run 7 0 18 =======> 0.633303821087
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js nan 8 48 29 =======> 0.533401489258
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js nan 9 26 35 =======> 0.469695538282
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js nan 13 17 44 =======> 0.589224457741
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js nan 19 15 58 =======> 0.480217367411
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js exec 26 2 72 =======> 0.440765887499
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/bench.js nan 28 6 76 =======> 0.472773522139
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js randomBytes 72 14 203
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js randomBytes 10 0 110 =======> 0.837914347649
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 18 22 128 =======> 0.165104821324
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 19 23 133 =======> 0.081962525845
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 33 14 155 =======> 0.173777714372
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 46 25 176 =======> 0.121179901063
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 47 23 179 =======> 0.081898473203
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 61 14 192 =======> 0.173843398690
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 78 23 210 =======> 0.127304121852
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 79 45 215 =======> 0.118955515325
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 85 17 225 =======> 0.086664892733
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 98 41 245 =======> 0.128622427583
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 99 27 249 =======> 0.115710631013
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 105 17 255 =======> 0.086662806571
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 118 25 273 =======> 0.166350290179
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 119 23 276 =======> 0.080553524196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 131 5 287 =======> 0.173825502396
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 136 14 295 =======> 0.173773348331
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 149 27 309 =======> 0.148425072432
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 150 28 314 =======> 0.079735748470
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 166 14 329 =======> 0.173767745495
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 179 27 343 =======> 0.132259353995
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 181 28 348 =======> 0.079027302563
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 198 14 364 =======> 0.216491341591
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 204 24 374 =======> 0.172511175275
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 224 28 396 =======> 0.118912704289
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 225 50 400 =======> 0.108334876597
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 233 17 408 =======> 0.086719639599
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 246 37 426 =======> 0.095858268440
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 247 50 430 =======> 0.075911447406
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 259 17 445 =======> 0.091875329614
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 274 37 464 =======> 0.118136040866
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 275 28 467 =======> 0.115566603839
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 283 17 476 =======> 0.086729630828
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 296 47 494 =======> 0.118534035981
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 297 62 499 =======> 0.100005492568
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 306 17 510 =======> 0.086712539196
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 319 56 528 =======> 0.118093758821
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 320 28 531 =======> 0.109384514391
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 329 17 541 =======> 0.086725950241
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 342 40 559 =======> 0.118549309671
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 343 50 563 =======> 0.099871903658
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 352 17 573 =======> 0.086720079184
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 365 21 591 =======> 0.102118656039
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 368 4 597 =======> 0.123816654086
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js fl 372 7 601 =======> 0.193650320172
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 381 20 607 =======> 0.101544104517
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 384 4 611 =======> 0.116242453456
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js fl 388 7 616 =======> 0.181269317865
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 397 25 622 =======> 0.109877586365
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 400 17 627 =======> 0.155837148428
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 408 31 633 =======> 0.116494037211
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 411 17 637 =======> 0.155685305595
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 420 21 643 =======> 0.117660574615
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 422 13 648 =======> 0.230482906103
+Total edge above 0.9 ===>  0
+
+
+Source =====>/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js randomBytes 73 14 205
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js randomBytes 10 0 110 =======> 0.837914228439
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 18 22 128 =======> 0.165104627609
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 19 23 133 =======> 0.081962421536
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 33 14 155 =======> 0.173777550459
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 46 25 176 =======> 0.121179774404
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 47 23 179 =======> 0.081898398697
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 61 14 192 =======> 0.173843234777
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 78 23 210 =======> 0.127304017544
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 79 45 215 =======> 0.118955396116
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 85 17 225 =======> 0.086664803326
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 98 41 245 =======> 0.128622293472
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 99 27 249 =======> 0.115710504353
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 105 17 255 =======> 0.086662769318
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 118 25 273 =======> 0.166350185871
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 119 23 276 =======> 0.080553457141
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 131 5 287 =======> 0.173825353384
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 136 14 295 =======> 0.173773095012
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 149 27 309 =======> 0.148424908519
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 150 28 314 =======> 0.079735673964
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 166 14 329 =======> 0.173767536879
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 179 27 343 =======> 0.132259175181
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 181 28 348 =======> 0.079027235508
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 198 14 364 =======> 0.216491207480
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 204 24 374 =======> 0.172511085868
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 224 28 396 =======> 0.118912577629
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 225 50 400 =======> 0.108334787190
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 233 17 408 =======> 0.086719602346
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 246 37 426 =======> 0.095858193934
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 247 50 430 =======> 0.075911350548
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 259 17 445 =======> 0.091875247657
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 274 37 464 =======> 0.118135914207
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 275 28 467 =======> 0.115566499531
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 283 17 476 =======> 0.086729519069
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 296 47 494 =======> 0.118533857167
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 297 62 499 =======> 0.100005410612
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 306 17 510 =======> 0.086712487042
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 319 56 528 =======> 0.118093721569
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 320 28 531 =======> 0.109384439886
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 329 17 541 =======> 0.086725898087
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 342 40 559 =======> 0.118549175560
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 343 50 563 =======> 0.099871836603
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 352 17 573 =======> 0.086720019579
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 365 21 591 =======> 0.102118566632
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 368 4 597 =======> 0.123816549778
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js fl 372 7 601 =======> 0.193650171161
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 381 20 607 =======> 0.101543977857
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 384 4 611 =======> 0.116242349148
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js fl 388 7 616 =======> 0.181269168854
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 397 25 622 =======> 0.109877459705
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 400 17 627 =======> 0.155836954713
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 408 31 633 =======> 0.116493895650
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 411 17 637 =======> 0.155685111880
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 420 21 643 =======> 0.117660447955
+/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/through2/test/test.js nan 422 13 648 =======> 0.230482786894
+Total edge above 0.9 ===>  1
+
+
+RANK 1 number of edge 2 ===>  0.037037037037037035
+
+
