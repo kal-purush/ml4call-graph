@@ -145,7 +145,7 @@ def fix_ids(node_file, new_node_file, edge_file, new_edge_file, function_edge_fi
 
     
 
-filepath = "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/*"
+filepath = "../libraries/*"
 folders = glob.glob(filepath)
 # print(folders)
 # project_list = ['lodash', 'express', 'formula-parser']

@@ -130,7 +130,7 @@ var project_list = ['winston', 'ws', 'qs', 'node-fs-extra', 'UglifyJS']
 // var project_list = ['chai', 'autoprefixer', 'winston', 'node-semver', 'html-webpack-plugin', 'qs', 'chokidar', 'postcss', 'postcss-loader', 'ejs', 'morgan', 'url-loader']
 // var project_list = ['mysql', 'joi','node-jsonwebtoken', 'create-react-app', 'react-router', 'UglifyJS']
 try {
-    let filepath = "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries";
+    let filepath = "../libraries";
     var files = fs.readdirSync(filepath);
     
     for(let file_ of files){
@@ -139,7 +139,7 @@ try {
             json_file = 'connected_files/'+file_+"_dependency_graph.json"
             if(!fs.existsSync(json_file)){
                 l(file_)
-                let file_path = "/Users/masudulhasanmasudbhuiyan/Documents/gitlab/libraries/"+file_;
+                let file_path = "../libraries/"+file_;
                 main_lst=[]
                 global_id = 1;
                 global_dict = Object.create(null);
